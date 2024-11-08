@@ -8,9 +8,10 @@ class Solution(object):
         end = len(height)-1
         max_area = 0
         while beg < end:
-            max_area= max(max_area,min(height[beg],height[end])*(end-beg)) 
+            max_area = max(max_area,min(height[beg],height[end])*(end-beg))
             if height[beg]>height[end]:
-                end = end-1
+                end = end -1
             else:
-                beg = beg+1
+                beg = beg +1
         return max_area
+        

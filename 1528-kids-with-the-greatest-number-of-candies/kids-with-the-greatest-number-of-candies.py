@@ -5,10 +5,9 @@ class Solution(object):
         :type extraCandies: int
         :rtype: List[bool]
         """
-        maxCandies = 0
+        maxCandies = max(candies)
         ans = []
-        for i in range(len(candies)):
-            maxCandies = max(maxCandies,candies[i])
+        
         for i in range(len(candies)):
             candyCount = candies[i] + extraCandies
             if candyCount >= maxCandies:

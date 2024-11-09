@@ -20,7 +20,7 @@ class Solution(object):
                 p2-=1
             insert-=1
         
-        while p2 >= 0:
+        while p2>=0:
             nums1[insert] = nums2[p2]
             p2-=1
             insert-=1

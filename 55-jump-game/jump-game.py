@@ -25,7 +25,7 @@ class Solution(object):
         target = n-1
         for i in range(n-1,-1,-1):
             maxjump = nums[i]
-            if i + maxjump>= target:
+            if i + maxjump >= target:
                 target = i
             
-        return target ==0 
+        return target == 0

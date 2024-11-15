@@ -6,14 +6,13 @@ class Solution(object):
         """
         stack = []
         for item in s:
-            if item == '(':
+            if item =='(':
                 stack.append(')')
             elif item =='{':
                 stack.append('}')
             elif item =='[':
                 stack.append(']')
-            elif not stack or stack.pop() != item:
+            elif not stack or stack.pop()!=item:
                 return False
-            
         return not stack
         

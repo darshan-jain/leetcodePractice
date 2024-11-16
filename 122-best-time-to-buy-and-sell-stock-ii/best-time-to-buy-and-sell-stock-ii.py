@@ -5,9 +5,10 @@ class Solution(object):
         :rtype: int
         """
         buy = prices[0]
-        profit = 0 
+        profit = 0
         for price in prices:
             if price > buy:
-                profit += price-buy
+                profit+=price-buy
             buy = price
+
         return profit

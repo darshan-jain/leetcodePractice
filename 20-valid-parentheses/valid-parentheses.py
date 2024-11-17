@@ -8,11 +8,12 @@ class Solution(object):
         for item in s:
             if item =='(':
                 stack.append(')')
-            elif item =='{':
+            elif item == '{':
                 stack.append('}')
-            elif item =='[':
+            elif item == '[':
                 stack.append(']')
             elif not stack or stack.pop()!=item:
                 return False
-        return not stack
+        return not stack 
+
         

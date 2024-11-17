@@ -14,6 +14,6 @@ class Solution(object):
                 stack.append(']')
             elif not stack or stack.pop()!=item:
                 return False
-        return not stack 
+        return stack == []
 
         

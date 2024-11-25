@@ -20,11 +20,10 @@ class Solution(object):
             curr.next = prev
             prev = curr
             curr = temp
-        head2= prev
+        head2 = prev
         max_sum = 0 
         while head2:
-            max_sum = max(max_sum,head.val+head2.val)
-            head = head.next
+            max_sum = max(max_sum, head.val + head2.val)
+            head  = head.next
             head2 = head2.next
         return max_sum
-        

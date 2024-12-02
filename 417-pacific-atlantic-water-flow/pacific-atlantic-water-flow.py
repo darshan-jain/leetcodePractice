@@ -1,12 +1,11 @@
 class Solution:
     def check(self,row,col,heights,ocean):
-        ocean[row][col] = True
-        lst = [[row+1,col],[row-1,col],[row,col+1],[row,col-1]]
+        ocean[row][col]= True
+        lst = [[row+1,col],[row-1,col],[row,col-1],[row,col+1]]
         for r,c in lst:
-            if 0<=r<len(heights) and 0<=c<len(heights[r]) and ocean[r][c] == False and heights[r][c] >= heights[row][col]:
+            if 0<=r<len(heights) and 0<=c< len(heights[r]) and not ocean[r][c] and heights[r][c] >= heights[row][col]:
                 self.check(r,c,heights,ocean)
         return 
-
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
         result = []
         rows,cols = len(heights), len(heights[0])
@@ -25,6 +24,6 @@ class Solution:
             for c in range(cols):
                 if atl[r][c] and pac[r][c]:
                     result.append([r,c])
-        return result
 
+        return result
         

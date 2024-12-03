@@ -12,7 +12,7 @@ class Solution(object):
 
         def cycle(course,seen):
             if course in seen:
-                return True 
+                return True
             seen.add(course)
             for p in prereqs[course]:
                 if cycle(p,seen):
@@ -20,9 +20,8 @@ class Solution(object):
             prereqs[course] = []
             seen.remove(course)
             return False
-
+        
         seen = set()
-
         for course in range(numCourses):
             if cycle(course,seen):
                 return False

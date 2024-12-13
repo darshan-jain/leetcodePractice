@@ -12,9 +12,9 @@ class Solution(object):
             neighbors[start].append(end)
             neighbors[end].append(start)
             connection.add((start,end))
-        
+
         curr = [0]
-        reverse = 0
+        reverse =0 
         visited = set()
         visited.add(0)
 
@@ -25,7 +25,7 @@ class Solution(object):
                     if n not in visited:
                         visited.add(n)
                         if (n,city) not in connection:
-                            reverse += 1
+                            reverse+=1
                         new_curr.append(n)
             curr = new_curr
         return reverse

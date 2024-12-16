@@ -12,3 +12,4 @@ class Solution(object):
             max_p = max(num,num*temp,num*max_p)
             max_product = max(max_p,max_product)
         return max_product
+        

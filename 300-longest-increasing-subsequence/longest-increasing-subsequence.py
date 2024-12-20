@@ -16,4 +16,7 @@ class Solution(object):
                     ind+=1
                 lst[ind] = num
         return max_len
+
+        #can be optimised for else part using binary search
+        
         

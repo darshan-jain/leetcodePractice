@@ -8,13 +8,15 @@ class Solution(object):
         res = []
         answer1 = []
         answer2 = []
+        nums1 = set(nums1)
+        nums2 = set(nums2)
 
         for num in nums1:
-            if num not in nums2 and num not in answer1:
+            if num not in nums2 :
                 answer1.append(num)
         
         for num in nums2:
-            if num not in nums1 and num not in answer2:
+            if num not in nums1 :
                 answer2.append(num)
         res = [answer1, answer2]
 

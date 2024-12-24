@@ -6,19 +6,21 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res = []
-        answer1 = []
-        answer2 = []
+        ans = []
         nums1 = set(nums1)
         nums2 = set(nums2)
 
         for num in nums1:
             if num not in nums2 :
-                answer1.append(num)
+                ans.append(num)
+
+        res.append(ans)
+        ans = []
         
         for num in nums2:
             if num not in nums1 :
-                answer2.append(num)
-        res = [answer1, answer2]
+                ans.append(num)
+        res.append(ans)
 
         return res
         

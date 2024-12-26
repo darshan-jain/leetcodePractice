@@ -1,13 +1,12 @@
-class Solution(object):
-    def largestAltitude(self, gain):
-        """
-        :type gain: List[int]
-        :rtype: int
-        """
-        leftSum = 0 
-        res = [leftSum]
-        for i in range(len(gain)):
-            leftSum += gain[i]
-            res.append(leftSum)
+class Solution:
+    def largestAltitude(self, gain: List[int]) -> int:
+        res = [0]
+        i=0
+        for g in gain:
+            res.append(res[i]+g)
+            i+=1
+        
         return max(res)
+
+
         

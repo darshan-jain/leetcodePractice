@@ -8,6 +8,6 @@ class Solution(object):
         seen = {}
         for ind in range(len(nums)):
             num = nums[ind]
-            if target-num  in seen:
+            if target - num in seen:
                 return [ind, seen[target-num]]
             seen[num] = ind

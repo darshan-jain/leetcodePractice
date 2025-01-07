@@ -1,30 +1,32 @@
-class Solution(object):
-    def setZeroes(self, matrix):
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
         """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
+        Do not return anything, modify matrix in-place instead.
         """
-        isRowZero = False
-        isColZero = False
-
-        for i in range(len(matrix)):
-            for j in range(len(matrix[i])):
-                if matrix[i][j]==0:
-                    matrix[0][j] = 0
-                    matrix[i][0] = 0
-
-                    if i==0:
-                        isRowZero = True
-                    if j==0:
-                        isColZero = True
+        row_flag = False
+        col_flag = False
+        rows = len(matrix)
+        cols = len(matrix[0])
+        for row in range(rows):
+            for col in range(cols):
+                if matrix[row][col] == 0 :
+                    if row==0:
+                        row_flag=True
+                    if col ==0:
+                        col_flag = True
+                    elif row!=0 and col!=0:
+                        matrix[row][0] =0 
+                        matrix[0][col] = 0 
         
-        for i in range(len(matrix)-1,-1,-1):
-            for j in range(len(matrix[i])-1,-1,-1):
-                if matrix[i][0] ==0 :
-                    if i!=0 or isRowZero:
-                        matrix[i][j] = 0
-                if matrix[0][j] ==0:
-                    if j!=0 or isColZero:
-                        matrix[i][j] = 0 
+        for row in range(1,rows):
+            for col in range(1,cols):
+                if matrix[row][0]==0 or matrix[0][col]==0:
+                    matrix[row][col] = 0 
+        
+        if row_flag:
+            matrix[0] = [0]*cols
+        if col_flag:
+            for row in range(rows):
+                matrix[row][0] = 0
 
         

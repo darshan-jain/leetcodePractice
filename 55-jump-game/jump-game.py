@@ -6,7 +6,7 @@ class Solution:
             if i > right:
                 return False
             if nums[i] + i > right:
-                right = nums[i] + i
+                right = nums[i] + i 
             if right >= last:
                 return True
         

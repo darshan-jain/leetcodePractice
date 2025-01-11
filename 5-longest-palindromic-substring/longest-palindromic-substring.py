@@ -1,25 +1,26 @@
-class Solution(object):
-    def isPal(self,string,left,right):
-        while left > 0 and right <len(string)-1 and string[left-1] == string[right+1]:
-            left-=1
-            right+=1
-        return left,right,right-left+1
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        left,right,max_len = 0,0,0
-        for ind in range(len(s)-1):
-            l1,r1,max_len1 = self.isPal(s,ind,ind)
-            if max_len1 > max_len:
-                max_len = max_len1
-                left,right = l1,r1
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        res = ""
+        resLen = 0 
+
+        for i in range(len(s)):
+
+            l,r = i,i
+            while l >=0 and r < len(s) and s[l] == s[r]:
+                if (r-l+1) > resLen:
+                    res = s[l:r+1]
+                    resLen = r-l+1
+                l-=1
+                r+=1
             
-            if s[ind] == s[ind+1]:
-                l2,r2,max_len2 = self.isPal(s,ind,ind+1)
-                if max_len2> max_len:
-                    max_len = max_len2
-                    left,right = l2,r2
-        return s[left:right+1]
+            l,r = i,i+1
+            while l >=0 and r < len(s) and s[l] == s[r]:
+                if (r-l+1) > resLen:
+                    res = s[l:r+1]
+                    resLen = r-l+1
+                l-=1
+                r+=1
+            
+        return res
+
         

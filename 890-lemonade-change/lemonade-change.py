@@ -1,31 +1,32 @@
-class Solution(object):
-    def lemonadeChange(self, bills):
-        """
-        :type bills: List[int]
-        :rtype: bool
-        """
-        five = 0 
-        ten =0 
-        twenty =0 
+class Solution:
+    def lemonadeChange(self, bills: List[int]) -> bool:
+        if bills[0] != 5:
+            return False
+        
+        count5 = 0
+        count10 = 0
+        count20 = 0 
+
         for bill in bills:
             if bill == 5:
-                five +=1
+                count5+=1
             if bill == 10:
-                if five >0:
-                    ten+=1
-                    five-=1
+                if count5 >=1:
+                    count10+=1
+                    count5-=1
                 else:
                     return False
             if bill == 20:
-                if ten >0 and five>0:
-                    ten-=1
-                    five-=1
-                    twenty+=1
-                elif five>2:
-                    five-=3
-                    twenty+=1
+                if (count10 >= 1 and count5 >=1) or count5 >=3:
+                    if count10 >= 1 and count5 >=1:
+                        count20+=1
+                        count10-=1
+                        count5-=1
+                    elif count5 >= 3:
+                        count20+=1
+                        count5-=3
                 else:
                     return False
+        
         return True
-
         

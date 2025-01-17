@@ -3,17 +3,20 @@ class Solution:
 
         lastIndex = {}
 
-        for i, c in enumerate(s):
+        for i,c in enumerate(s):
             lastIndex[c] = i
         
         res = []
-        size, end = 0,0 
-        for i, c in enumerate(s):
-            size+=1
-            end = max(end,lastIndex[c])
+        size,end = 0,0
 
-            if i==end:
+        for i,c in enumerate(s):
+            end = max(end,lastIndex[c])
+            size+=1
+
+            if i == end:
                 res.append(size)
                 size = 0 
         return res
+            
+
         

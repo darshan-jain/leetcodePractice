@@ -1,18 +1,15 @@
-class Solution(object):
-    def jump(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        smallest =0 
-        n = len(nums)
-        end,far = 0,0
+class Solution:
+    def jump(self, nums: List[int]) -> int:
 
-        for i in range(n-1):
-            far = max(far,i+nums[i])
-            if i == end:
-                smallest+=1
-                end = far 
-            
-        return smallest
+        res = 0 
+        l = r= 0 
+
+        while r < len(nums)-1:
+            farthest = 0 
+            for i in range(l,r+1):
+                farthest = max(farthest, i + nums[i])
+            l = r+1
+            r = farthest
+            res+=1
+        return res
         

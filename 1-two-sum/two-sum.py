@@ -9,5 +9,5 @@ class Solution(object):
         for ind in range(len(nums)):
             num = nums[ind]
             if target - num in seen:
-                return [ind, seen[target-num]]
+                return [ind,seen[target-num]]
             seen[num] = ind

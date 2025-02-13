@@ -9,11 +9,10 @@ class Solution:
         if root is None:
             return []
         
+        result = []
+        queue = [root]
         level = []
         next_level = []
-        result = []
-        queue = [root]        
-
         while queue:
             for root in queue:
                 level.append(root.val)
@@ -26,3 +25,4 @@ class Solution:
             queue = next_level
             next_level = []
         return result
+        

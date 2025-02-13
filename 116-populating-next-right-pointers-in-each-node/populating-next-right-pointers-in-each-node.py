@@ -11,17 +11,30 @@ class Node:
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         
-        node = root
+        # node = root
 
-        while node and node.left:
-            dummy = Node(0)
-            needle = dummy
-            while node:
-                needle.next = node.left
-                needle = needle.next
-                needle.next = node.right
-                needle = needle.next
-                node = node.next
-            node = dummy.next
+        # while node and node.left:
+        #     dummy = Node(0)
+        #     needle = dummy
+        #     while node:
+        #         needle.next = node.left
+        #         needle = needle.next
+        #         needle.next = node.right
+        #         needle = needle.next
+        #         node = node.next
+        #     node = dummy.next
+        # return root
+
+        if not root:
+            return None
+        def connect2nodes(p,q):
+            if not p:
+                return 
+            p.next = q
+            connect2nodes(p.left,p.right)
+            connect2nodes(q.left,q.right)
+            connect2nodes(p.right,q.left)
+        
+        connect2nodes(root.left,root.right)
         return root
         

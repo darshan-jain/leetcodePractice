@@ -5,21 +5,26 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
+    def __init__(self):
+        self.count = 0 
+    def helper(self,root,k):
+        if root is None:
+            return None
+        left = self.helper(root.left,k)
+        if left is not None:
+            return left 
+        self.count+=1
+        if self.count==k:
+            return root
+        return self.helper(root.right,k)
     def kthSmallest(self, root, k):
         """
         :type root: Optional[TreeNode]
         :type k: int
         :rtype: int
         """
-        stack = []
-        result = None 
-        while stack or root:
-            while root:
-                stack.append(root)
-                root = root.left
-            root = stack.pop()
-            k-=1
-            if k ==0:
-                return root.val
-            root = root.right
+        node =  self.helper(root,k)
+        return node.val
+        
+
         

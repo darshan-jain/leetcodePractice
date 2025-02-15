@@ -18,6 +18,5 @@ class Solution:
                 temp.right = curr.right
                 curr.right = curr.left
                 curr.left = None
-            
             curr = curr.right
         

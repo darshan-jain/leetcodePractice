@@ -9,6 +9,7 @@ class Solution:
         return dp[-1][-1]
         
         #Recursive Soln  - TLE 
-        # if m==1 or n==1:
-        #     return 1
-        # return self.uniquePaths(m-1,n) + self.uniquePaths(m,n-1)
+        if m==1 or n==1:
+            return 1
+        if r>0 and c>0:
+            return self.uniquePaths(m-1,n) + self.uniquePaths(m,n-1)

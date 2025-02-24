@@ -3,7 +3,7 @@ class Solution:
         fresh = 0 
         rotten = []
         minutes = 0 
-        rows,cols = len(grid),len(grid[0])
+        rows,cols = len(grid), len(grid[0])
 
         for row in range(rows):
             for col in range(cols):
@@ -18,16 +18,18 @@ class Solution:
             for r,c in rotten:
                 check = [(r-1,c),(r+1,c),(r,c-1),(r,c+1)]
                 for i,j in check:
-                    if i<rows and j<cols and i>=0 and j>=0 and grid[i][j]==1:
+                    if i>=0 and j>=0 and i<rows and j < cols and grid[i][j]==1:
                         grid[i][j]=2
                         fresh-=1
                         curr.append((i,j))
                         if fresh==0:
                             return minutes
                     rotten = curr
-        if fresh ==0:
+        
+        if fresh==0:
             return minutes
         else:
             return -1
-                    
+
+
         

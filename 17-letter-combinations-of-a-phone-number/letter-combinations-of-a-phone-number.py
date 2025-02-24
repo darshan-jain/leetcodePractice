@@ -16,8 +16,8 @@ class Solution:
             
             for c in digitstochar[digits[i]]:
                 backtrack(i+1,curStr+c)
-
+        
         if digits:
             backtrack(0,"")
-        return res
         
+        return res

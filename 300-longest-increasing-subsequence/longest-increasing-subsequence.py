@@ -5,10 +5,10 @@ class Solution:
         for num in nums[1:]:
             if num > lst[-1]:
                 lst.append(num)
-                max_len +=1
+                max_len+=1
             else:
-                ind =0 
-                while ind < len(lst) and lst[ind] < num:
+                ind= 0 
+                while ind <= len(lst)-1 and lst[ind] < num :
                     ind+=1
                 lst[ind] = num
         return max_len

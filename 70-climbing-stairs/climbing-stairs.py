@@ -1,11 +1,16 @@
-class Solution(object):
-    def climbStairs(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        ways = [1,1,2]
-        for step in range(3,n+1):
-            ways.append(ways[step-1]+ways[step-2])
-        return ways[n]
+class Solution:
+    def helper(self,n,memo={}):
+        if n in memo:
+            return memo[n]
+        if n==0:
+            return 1 
+        if n <0:
+            return 0 
+        left = self.helper(n-1)    
+        right = self.helper(n-2)
+        memo[n] = val = left+right
+        return val
+    def climbStairs(self, n: int) -> int:
+        ans = self.helper(n)
+        return ans
         

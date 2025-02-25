@@ -9,7 +9,7 @@ class Solution(object):
         prereqs = defaultdict(list)
         for p,c in prerequisites:
             prereqs[c].append(p)
-        
+
         def cycle(course,seen):
             if course in seen:
                 return True
@@ -17,14 +17,9 @@ class Solution(object):
             for p in prereqs[course]:
                 if cycle(p,seen):
                     return True
-            
             prereqs[course] = []
             seen.remove(course)
             return False
-
-        
-
-
 
 
         seen = set()
@@ -32,5 +27,4 @@ class Solution(object):
             if cycle(course,seen):
                 return False
         return True
-
         

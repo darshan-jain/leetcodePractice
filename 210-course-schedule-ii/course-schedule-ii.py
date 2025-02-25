@@ -1,14 +1,14 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        order = []
+        order  = [] 
         g = defaultdict(list)
         for a,b in prerequisites:
             g[a].append(b)
-
-        UNVISITED,VISITING,VISITED = 0 ,1,2
-        states = [UNVISITED]* (numCourses)
-        def dfs(i):     # True if no cycle, False if cycle exists
-            if states[i]==VISITING:
+        
+        UNVISITED, VISITING, VISITED = 0,1,2
+        states = [UNVISITED] * (numCourses)
+        def dfs(i):
+            if states[i] == VISITING:
                 return False
             elif states[i] == VISITED:
                 return True
@@ -20,9 +20,7 @@ class Solution:
             order.append(i)
             return True
 
-        
         for i in range(numCourses):
-            if not dfs(i):   # cycle exists
+            if not dfs(i):
                 return []
-        return order 
-        
+        return order

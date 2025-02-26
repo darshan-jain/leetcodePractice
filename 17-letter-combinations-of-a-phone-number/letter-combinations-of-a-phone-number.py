@@ -13,11 +13,11 @@ class Solution:
             if len(curStr) == len(digits):
                 res.append(curStr)
                 return 
-            
             for c in digitstochar[digits[i]]:
                 backtrack(i+1,curStr+c)
         
         if digits:
             backtrack(0,"")
-        
-        return res
+            return res
+        else:
+            return []

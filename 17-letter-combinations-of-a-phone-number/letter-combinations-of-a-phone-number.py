@@ -18,6 +18,4 @@ class Solution:
         
         if digits:
             backtrack(0,"")
-            return res
-        else:
-            return []
+        return res

@@ -9,7 +9,8 @@ class Solution:
         minHeap = []
         for i,node in enumerate(lists):
             if node:
-                heapq.heappush(minHeap, (node.val,i,node))
+                heapq.heappush(minHeap,(node.val,i,node))
+        
         dummy = ListNode(0)
         curr = dummy
         while minHeap:
@@ -17,7 +18,7 @@ class Solution:
             curr.next = node
             curr = curr.next
             if node.next:
-                heapq.heappush(minHeap,(node.next.val,i,node.next))
-        
+                heapq.heappush(minHeap, (node.next.val,i,node.next))
+            
         return dummy.next
         

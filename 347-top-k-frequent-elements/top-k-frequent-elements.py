@@ -3,9 +3,8 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         hm = defaultdict(list)
         for ele in nums:
-            hm[ele]=0
-        for ele in nums:
-            hm[ele]+=1
+            hm[ele]=1 + hm.get(ele,0)
+        
 
         maxHeap = []
         res = []

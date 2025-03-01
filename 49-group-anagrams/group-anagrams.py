@@ -4,11 +4,12 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        dict = collections.defaultdict(list)
+        hm =collections.defaultdict(list)
 
         for val in strs:
             key = ''.join(sorted(val))
-            dict[key].append(val)
+            hm[key].append(val)
         
-        return dict.values()
+        return hm.values()
+
         

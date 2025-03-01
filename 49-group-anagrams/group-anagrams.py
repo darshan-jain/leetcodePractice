@@ -6,9 +6,9 @@ class Solution(object):
         """
         dict = collections.defaultdict(list)
 
-        for str in strs:
-            key = ''.join(sorted(str))
-            dict[key].append(str)
+        for val in strs:
+            key = ''.join(sorted(val))
+            dict[key].append(val)
         
         return dict.values()
         

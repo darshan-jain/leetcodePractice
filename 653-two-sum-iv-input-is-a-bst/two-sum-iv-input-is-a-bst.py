@@ -10,10 +10,11 @@ class Solution:
         def dfs(root):
             if root is None:
                 return False
-            y = k - root.val
+            y = k-root.val
             if y in l:
                 return True
             else:
                 l.add(root.val)
             return dfs(root.left) or dfs(root.right)
         return dfs(root)
+        

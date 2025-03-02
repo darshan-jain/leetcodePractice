@@ -1,4 +1,3 @@
-from collections import defaultdict
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
@@ -21,10 +20,9 @@ class Solution(object):
             seen.remove(course)
             return False
 
-
-        seen = set()
-        for course in range(numCourses):
-            if cycle(course,seen):
+        seen  = set()
+        for i in range(numCourses):
+            if cycle(i,seen):
                 return False
         return True
         

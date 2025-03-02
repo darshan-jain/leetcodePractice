@@ -8,10 +8,11 @@ class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         def same(p,q):
             if p is None or q is None:
-                return p is q 
-            return p.val == q.val and same(p.left,q.left) and same(p.right,q.right)
+                return p==q
+            return p.val==q.val and same(p.left,q.left) and same(p.right,q.right)
         
         if root is None:
             return False
-        return (same(root,subRoot) or self.isSubtree(root.left,subRoot) or self.isSubtree(root.right,subRoot) )
+        return same(root,subRoot) or self.isSubtree(root.left,subRoot) or self.isSubtree(root.right, subRoot)
+
         

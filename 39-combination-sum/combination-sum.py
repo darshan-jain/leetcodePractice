@@ -7,11 +7,11 @@ class Solution:
             if target == 0 :
                 res.append(curr)
                 return 
-            for i in range(start,len(candidates)):
-                if candidates[i] > target:
-                    break
-                comb(curr+[candidates[i]], i, target - candidates[i])
-        
+            for i in range(start, len(candidates)):
+                if candidates[i]>target:
+                    continue
+                comb(curr + [candidates[i]], i, target - candidates[i])
+    
         comb([],0,target)
         return res
         

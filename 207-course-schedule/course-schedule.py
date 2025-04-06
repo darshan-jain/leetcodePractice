@@ -6,9 +6,9 @@ class Solution(object):
         :rtype: bool
         """
         prereqs = defaultdict(list)
-        for p,c in prerequisites:
+        for p, c in prerequisites:
             prereqs[c].append(p)
-
+        
         def cycle(course,seen):
             if course in seen:
                 return True
@@ -19,10 +19,11 @@ class Solution(object):
             prereqs[course] = []
             seen.remove(course)
             return False
+        
 
-        seen  = set()
-        for i in range(numCourses):
-            if cycle(i,seen):
+        seen = set()
+        for course in range(numCourses):
+            if cycle(course,seen):
                 return False
         return True
         

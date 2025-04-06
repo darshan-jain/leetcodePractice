@@ -2,23 +2,22 @@ import heapq
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         graph = defaultdict(list)
-        for u,v,time in times:
-            graph[u].append((v,time))
+        for u,v,w in times:
+            graph[u].append((v,w))
         
-        min_heap = [(0,k)]
-        min_time = {}
-
-        while min_heap:
-            time_k_to_i , i = heapq.heappop(min_heap)
-            if i in min_time:
+        mintime = {}
+        minHeap = [(0,k)]
+        while minHeap:
+            time_k_i , i  = heapq.heappop(minHeap)
+            if i in mintime:
                 continue
-            min_time[i] = time_k_to_i
-            for nei,nei_time in graph[i]:
-                if nei not in min_time:
-                    heapq.heappush(min_heap, (time_k_to_i + nei_time, nei))
+            mintime[i] = time_k_i
+            for nei, nei_time in graph[i]:
+                if nei not in mintime:
+                    heapq.heappush(minHeap, (time_k_i + nei_time,nei))
         
-        if len(min_time) == n :
-            return max(min_time.values())
+        if len(mintime) == n:
+            return max(mintime.values())
         else:
             return -1
         

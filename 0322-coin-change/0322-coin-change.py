@@ -5,7 +5,7 @@ class Solution:
         dp = [amount+1] * (amount+1)
         dp[0] = 0
         for i in range(len(dp)):
-            if i!=amount+1:
+            if dp[i]!=amount+1:
                 for c in coins:
                     if (i+c)<len(dp):
                         dp[i+c] = min(dp[i+c],dp[i]+1 )

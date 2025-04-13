@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0008-string-to-integer-atoi](https://github.com/darshan-jain/leetcodePractice/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/darshan-jain/leetcodePractice/tree/master/0115-distinct-subsequences) |
+| [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/darshan-jain/leetcodePractice/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/darshan-jain/leetcodePractice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |

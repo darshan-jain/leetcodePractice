@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/darshan-jain/leetcodePractice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
@@ -90,8 +92,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

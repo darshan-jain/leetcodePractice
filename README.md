@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
+| [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
@@ -77,17 +78,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->

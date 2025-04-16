@@ -18,9 +18,8 @@ class Solution:
                 ans+=no
                 return 
             no = (no*10) + root.val
-            dfs(root.left,no)
+            dfs(root.left,no) 
             dfs(root.right,no)
-        
         dfs(root,0)
         return ans
         

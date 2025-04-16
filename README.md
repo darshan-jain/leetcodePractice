@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0129-sum-root-to-leaf-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0129-sum-root-to-leaf-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0129-sum-root-to-leaf-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
@@ -123,4 +126,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

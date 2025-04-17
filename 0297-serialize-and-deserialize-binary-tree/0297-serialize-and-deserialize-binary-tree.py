@@ -13,25 +13,23 @@ class Codec:
         :type root: TreeNode
         :rtype: str
         """
-        # if root is None:
-        #     return ["null"]
         def dfs(root):
             if root is None:
                 return ["null"]
-            return [str(root.val)] +dfs(root.left) + dfs(root.right)
+            return [str(root.val)] + dfs(root.left)+ dfs(root.right)
         val = dfs(root)
         return str(val)
-        
-
+    
     def helper2(self,data):
         val = data.pop()
-        if val =="null":
+        if val == "null":
             return None
         node = TreeNode(val)
         node.left = self.helper2(data)
         node.right = self.helper2(data)
         return node
         
+
     def deserialize(self, data):
         """Decodes your encoded data to tree.
         
@@ -42,7 +40,8 @@ class Codec:
         data.reverse()
         node = self.helper2(data)
         return node
-       
+        
+
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
 # deser = Codec()

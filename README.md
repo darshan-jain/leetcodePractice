@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
+| [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
 ## Math
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0538-convert-bst-to-greater-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0538-convert-bst-to-greater-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0538-convert-bst-to-greater-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |

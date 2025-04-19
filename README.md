@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
+| [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
 ## Two Pointers

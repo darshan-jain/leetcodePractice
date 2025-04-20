@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |

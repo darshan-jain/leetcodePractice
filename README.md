@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
+| [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0374-guess-number-higher-or-lower](https://github.com/darshan-jain/leetcodePractice/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/darshan-jain/leetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -249,4 +252,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/darshan-jain/leetcodePractice/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

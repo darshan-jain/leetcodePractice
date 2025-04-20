@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Recursion
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |

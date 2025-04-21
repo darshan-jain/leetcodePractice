@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/darshan-jain/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0120-triangle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0046-permutations](https://github.com/darshan-jain/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 ## Breadth-First Search
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

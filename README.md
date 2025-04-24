@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0115-distinct-subsequences](https://github.com/darshan-jain/leetcodePractice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/darshan-jain/leetcodePractice/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0120-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/darshan-jain/leetcodePractice/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/darshan-jain/leetcodePractice/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Breadth-First Search
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

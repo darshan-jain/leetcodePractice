@@ -12,17 +12,15 @@ class Solution:
             "9":"wxyz"
         }
 
-        def backtrack(i,curStr):
-            pass
-            if len(curStr)==len(digits):
+        def backtrack(index,curStr):
+            if index == len(digits):
                 res.append(curStr)
-                return 
-            for c in digittochar[digits[i]]:
-                backtrack(i+1,curStr+c)
-
+                return
+            for c in digittochar[digits[index]]:
+                backtrack(index+1,curStr+c)
+        
         if digits:
             backtrack(0,"")
-            return res
-        else:
-            return []
+        
+        return res
         

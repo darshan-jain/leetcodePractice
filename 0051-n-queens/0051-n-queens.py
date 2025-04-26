@@ -1,14 +1,15 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        col =set()
+        col = set()
         posDiag = set()
-        negDiag = set()
-
+        negDiag=set()
         res = []
-        board=[["."] * n for i in range(n)]
+        #part = []
+        board = [["."]*n for i in range(n)]
+
 
         def backtrack(r):
-            if r==n:
+            if r == n : 
                 copy = ["".join(row) for row in board]
                 res.append(copy)
                 return 
@@ -24,7 +25,11 @@ class Solution:
                 posDiag.remove(r+c)
                 negDiag.remove(r-c)
                 board[r][c]="."
+
         
         backtrack(0)
         return res
+
+
+
         

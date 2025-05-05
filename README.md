@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/darshan-jain/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/darshan-jain/leetcodePractice/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0056-merge-intervals) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |

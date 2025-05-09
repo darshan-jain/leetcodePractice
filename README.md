@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0040-combination-sum-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/darshan-jain/leetcodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0056-merge-intervals) |

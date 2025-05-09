@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 ## Array
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0131-palindrome-partitioning](https://github.com/darshan-jain/leetcodePractice/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Breadth-First Search
 |  |
@@ -320,4 +324,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->

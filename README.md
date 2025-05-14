@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |

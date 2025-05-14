@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
 | ------- |

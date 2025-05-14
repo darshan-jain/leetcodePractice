@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/darshan-jain/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->

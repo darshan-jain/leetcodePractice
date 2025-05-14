@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
+| [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Recursion
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |

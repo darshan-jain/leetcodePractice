@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Design
 |  |
 | ------- |

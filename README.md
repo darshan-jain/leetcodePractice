@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/darshan-jain/leetcodePractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |

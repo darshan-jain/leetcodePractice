@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0051-n-queens](https://github.com/darshan-jain/leetcodePractice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/darshan-jain/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |

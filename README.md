@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/darshan-jain/leetcodePractice/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshan-jain/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshan-jain/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |

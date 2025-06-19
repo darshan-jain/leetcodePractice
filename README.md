@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/darshan-jain/leetcodePractice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/darshan-jain/leetcodePractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/darshan-jain/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/darshan-jain/leetcodePractice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/darshan-jain/leetcodePractice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0056-merge-intervals) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/darshan-jain/leetcodePractice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |

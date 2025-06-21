@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/darshan-jain/leetcodePractice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/darshan-jain/leetcodePractice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/darshan-jain/leetcodePractice/tree/master/0374-guess-number-higher-or-lower) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0075-sort-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |

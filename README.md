@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/darshan-jain/leetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/darshan-jain/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/darshan-jain/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |

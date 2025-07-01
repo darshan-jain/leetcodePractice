@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0002-add-two-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/darshan-jain/leetcodePractice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/darshan-jain/leetcodePractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/darshan-jain/leetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
@@ -519,4 +521,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

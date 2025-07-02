@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0238-product-of-array-except-self](https://github.com/darshan-jain/leetcodePractice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 ## Interactive
 |  |
 | ------- |

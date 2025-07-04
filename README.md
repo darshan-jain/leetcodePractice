@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0027-remove-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/darshan-jain/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |

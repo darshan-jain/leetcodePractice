@@ -25,26 +25,38 @@ public:
         }
 
         
-
-        if(hasCycle)
-        {
-            while(temp)
-            {
-                do
-                {
-                    if(temp==slow)
-                    {
-                        return temp;
-                    }
-                    slow = slow->next;
-                }while(slow!=fast);
-                //fast = slow;
-                temp = temp->next;
-            }
-        }
+        // O(n^2) Approach
+        // if(hasCycle)
+        // {
+        //     while(temp)
+        //     {
+        //         do
+        //         {
+        //             if(temp==slow)
+        //             {
+        //                 return temp;
+        //             }
+        //             slow = slow->next;
+        //         }while(slow!=fast);
+        //         //fast = slow;
+        //         temp = temp->next;
+        //     }
+        // }
         // else{
         //     return NULL;
         // }
+
+        //O(n) Approach 
+        if(hasCycle)
+        {
+            ListNode * ptr = head;
+            while(ptr!=fast)
+            {
+                ptr= ptr->next;
+                fast =fast->next;
+            }
+            return ptr;
+        }
         return NULL;
         
     }

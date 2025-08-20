@@ -1,22 +1,20 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        leftMax = height[0]
+        rightMax = height[-1]
+        water = 0 
         left = 0 
         right = len(height)-1
-        left_max , right_max = height[left], height[right]
-        water = 0 
-        while left < right:
-            if left_max < right_max:
-                water+= left_max - height[left]
+        while left<right:
+            if leftMax < rightMax:
+                water+= (leftMax - height[left])
                 left+=1
-                left_max = max(left_max, height[left])
+                leftMax = max(leftMax, height[left])
             else:
-                water+= right_max - height[right]
+                water+= (rightMax - height[right])
                 right-=1
-                right_max = max(right_max, height[right])
+                rightMax = max(rightMax, height[right])
         return water
+
 
         

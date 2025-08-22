@@ -4,11 +4,11 @@ class Solution:
         for i in range(1,n+1):
             arr.append(i)
         
-        res = [] 
+        res = []
         sol = []
         def backtrack():
             if len(res)==k:
-                return 
+                return
             if len(sol) == len(arr):
                 res.append(sol[:])
                 return 
@@ -17,8 +17,8 @@ class Solution:
                     sol.append(num)
                     backtrack()
                     sol.pop()
+        
         backtrack()
-
         ans = ""
         for elem in res[k-1]:
             ans+=str(elem)

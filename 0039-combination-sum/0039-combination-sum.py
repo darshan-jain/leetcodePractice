@@ -3,16 +3,16 @@ class Solution:
         res = []
         candidates.sort()
 
-        def combination(part,start,target):
+        def comb(start, part, target):
             if target==0:
-                res.append(part)
+                res.append(part[:])
                 return 
             for i in range(start, len(candidates)):
-                if candidates[i]>target:
-                    continue
-                combination(part + [candidates[i]], i, target - candidates[i])
+                if candidates[i] > target:
+                    break
+                comb(i, part + [candidates[i]], target - candidates[i])
+        
 
-
-        combination([],0,target)
+        comb(0,[],target)
         return res
         

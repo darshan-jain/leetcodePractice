@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/darshan-jain/leetcodePractice/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0572-subtree-of-another-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |

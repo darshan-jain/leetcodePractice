@@ -13,8 +13,9 @@ class Solution:
                 return ([True,0])
             left = dfs(root.left)
             right = dfs(root.right)
-            bal = left[0] and right[0] and abs(left[1]-right[1])<=1
-            return ([bal,max(left[1],right[1])+1])
+            bal = left[0] and right[0] and abs(left[1] - right[1]) <=1
+            return ([bal, max(left[1],right[1])+1])
+
         
         return dfs(root)[0]
         

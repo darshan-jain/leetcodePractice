@@ -6,19 +6,22 @@
 #         self.right = right
 class Solution:
     def __init__(self):
-        self.maxval = float("-inf")
-    def helper(self, root):
+        self.ans = float("-inf")
+    def helper(self,root):
         if root is None:
-            return 0 
+            return 0
         left = self.helper(root.left)
         right = self.helper(root.right)
         left = max(0,left)
-        right= max(0,right)
+        right = max(0,right)
         pathSum = left+right+root.val
-        self.maxval = max(self.maxval, pathSum)
+        self.ans = max(self.ans, pathSum)
         return max(left,right)+root.val
 
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
+        if root is None:
+            return 0
         self.helper(root)
-        return self.maxval
+        return self.ans
+
         

@@ -12,10 +12,10 @@ class Solution:
         index = -1
         for i in range(len(inorder)):
             if inorder[i]==root:
-                index = i
+                index=i
                 break
         node = TreeNode(root)
-        node.left = self.buildTree(inorder[0:index], postorder[0:index])
+        node.left = self.buildTree(inorder[0:index] , postorder[0:index])
         node.right = self.buildTree(inorder[index+1:], postorder[index:-1])
         return node
         

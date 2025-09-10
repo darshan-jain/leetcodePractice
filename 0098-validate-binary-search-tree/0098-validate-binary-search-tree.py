@@ -13,6 +13,6 @@ class Solution:
                 return True
             if root.val <=minn or root.val >=maxx:
                 return False
-            return isValid(root.left, minn, root.val) and isValid(root.right, root.val , maxx)
+            return isValid(root.left, minn, root.val) and isValid(root.right, root.val, maxx)
         return isValid(root, float("-inf"), float("inf"))
         

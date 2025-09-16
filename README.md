@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [0988-flip-equivalent-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0133-clone-graph](https://github.com/darshan-jain/leetcodePractice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |

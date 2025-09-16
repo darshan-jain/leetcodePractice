@@ -1,30 +1,26 @@
 from collections import deque
 class Solution:
-    def check(self, start, V, graph, color):
+    def check(self,start,V,graph, color):
         q = deque()
         q.append(start)
-        color[start] = 0
+        color[start] = 0 
         while q:
             node = q.popleft()
-            for vals in graph[node]:
-                if color[vals]==-1:
-                    color[vals] = 1-color[node]
-                    q.append(vals)
-                elif color[vals]==color[node]:
+            for val in graph[node]:
+                if color[val]==-1:
+                    color[val] = 1-color[node]
+                    q.append(val)
+                elif color[val]==color[node]:
                     return False
         return True
+            
 
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        color = [-1 for _ in range(len(graph))]
-        for i in range(len(graph)):
+        V = len(graph)
+        color = [-1 for _ in range(V)]
+        for i in range(V):
             if color[i]==-1:
-                if self.check(i,len(graph), graph, color)==False:
+                if self.check(i,V,graph, color)==False:
                     return False
         return True
-
-        
-        
-
-
-
         

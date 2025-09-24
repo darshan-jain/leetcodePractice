@@ -16,19 +16,18 @@ class Codec:
         def dfs(root):
             if root is None:
                 return ["null"]
-            return [str(root.val)] + dfs(root.left)+ dfs(root.right)
+            return [str(root.val)] + dfs(root.left) + dfs(root.right)
         val = dfs(root)
         return str(val)
     
-    def helper2(self,data):
+    def helper(self,data):
         val = data.pop()
-        if val == "null":
+        if val=="null":
             return None
         node = TreeNode(val)
-        node.left = self.helper2(data)
-        node.right = self.helper2(data)
+        node.left = self.helper(data)
+        node.right = self.helper(data)
         return node
-        
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -36,9 +35,9 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        data = ast.literal_eval(data)
-        data.reverse()
-        node = self.helper2(data)
+        data = ast.literal_eval(data) #safely evals the string
+        data = data[::-1]
+        node = self.helper(data)
         return node
         
 

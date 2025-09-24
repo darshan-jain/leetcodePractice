@@ -10,10 +10,10 @@ class Solution:
             return False
         if subRoot is None:
             return True
-        def sameTree(p,q):
+        def isSameTree(p,q):
             if p is None or q is None:
                 return p==q
-            return p.val==q.val and sameTree(p.left,q.left) and sameTree(p.right, q.right)
+            return p.val==q.val and isSameTree(p.left, q.left) and isSameTree(p.right, q.right)
         
-        return sameTree(root,subRoot) or self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+        return isSameTree(root, subRoot) or self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
         

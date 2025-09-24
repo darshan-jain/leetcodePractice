@@ -23,7 +23,7 @@ class MedianFinder:
 
     def findMedian(self) -> float:
         if len(self.small) == len(self.large):
-            val1 = self.small[0]
+            val1 = self.small[0] #can't use heapq.heappop() since it changes the heap
             val1=val1*-1
             val2 = self.large[0]
             return (val1+val2)/2

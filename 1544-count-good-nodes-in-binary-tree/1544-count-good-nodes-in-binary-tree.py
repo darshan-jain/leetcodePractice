@@ -7,19 +7,29 @@
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         if root is None:
-            return 0 
-        ans = 0
-        def dfs(root, maxVal):
+            return 0
+        
+        count = 0 
+       
+    
+        def dfs(root, maxval):
             if root is None:
                 return 
-            nonlocal ans
-            if root.val >= maxVal:
-                ans+=1
-                maxVal = root.val
-            dfs(root.left, maxVal)
-            dfs(root.right,maxVal)
-        
-        dfs(root,root.val)
-        return ans
-        
+            # if root.left and root.right is None:
+            #     return 1
+            nonlocal count
+            if root.val >= maxval:
+                count+=1
+                maxval = root.val
+            if root.left:
+                left  = dfs(root.left,maxval )
+            if root.right:
+                right = dfs(root.right, maxval)
+            return
+            
+
+
+        dfs(root, root.val)
+        return count
+
         

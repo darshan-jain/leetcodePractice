@@ -13,7 +13,7 @@ class Solution:
                 root = root.left
             root = stack.pop()
             k-=1
-            if k==0:
+            if k ==0:
                 return root.val
             root = root.right
         

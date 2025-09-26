@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0485-max-consecutive-ones](https://github.com/darshan-jain/leetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/darshan-jain/leetcodePractice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/darshan-jain/leetcodePractice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
@@ -593,6 +598,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 ## Quickselect

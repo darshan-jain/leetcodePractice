@@ -3,27 +3,26 @@ import heapq
 class Twitter:
 
     def __init__(self):
-        self.data = [] # [time, userID,tweetID]
+        self.data = defaultdict(list) # person->[(time, userId)]
         self.time = 0 
-        self.graph = defaultdict(list)
+        self.graph = defaultdict(list) #networkgraph
         self.maxheap = []
 
     def postTweet(self, userId: int, tweetId: int) -> None:
         self.time+=1
-        temp = []
-        temp.append(-1*self.time)
-        temp.append(userId)
-        temp.append(tweetId)
-        self.data.append(temp)
-       
-
-        
+        self.data[userId].append((-1*self.time, tweetId))    
 
     def getNewsFeed(self, userId: int) -> List[int]:
         res = []
-        for time,uid,tweetId in self.data:
-            if uid == userId or uid in self.graph[userId]:
-                heapq.heappush(self.maxheap, (time, uid, tweetId))
+        #that person's tweets 
+        for time, tid in self.data[userId]:
+            heapq.heappush(self.maxheap, (time, userId, tid))
+
+        #their followers tweets
+        for uid in self.graph[userId]:
+            if uid != userId:
+                for time, tid in self.data[uid]:
+                    heapq.heappush(self.maxheap, (time, uid, tid))
       
         k=10
         while k>0 and self.maxheap:
@@ -37,7 +36,8 @@ class Twitter:
 
     def follow(self, followerId: int, followeeId: int) -> None:
         #can't follow themselves
-        self.graph[followerId].append(followeeId)
+        if followeeId not in self.graph[followerId]:
+            self.graph[followerId].append(followeeId)
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
         if followeeId in self.graph[followerId]:

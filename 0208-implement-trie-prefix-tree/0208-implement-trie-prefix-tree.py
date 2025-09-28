@@ -14,7 +14,7 @@ class Trie:
         
 
     def search(self, word: str) -> bool:
-        d = self.trie
+        d= self.trie 
         for c in word:
             if c not in d:
                 return False
@@ -23,7 +23,7 @@ class Trie:
         
 
     def startsWith(self, prefix: str) -> bool:
-        d = self.trie
+        d = self.trie 
         for c in prefix:
             if c not in d:
                 return False

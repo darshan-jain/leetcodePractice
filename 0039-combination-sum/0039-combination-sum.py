@@ -3,16 +3,14 @@ class Solution:
         res = []
         candidates.sort()
 
-        def comb(start, part, target):
+        def comb(path, start, target):
             if target==0:
-                res.append(part[:])
+                res.append(path[:])
                 return 
             for i in range(start, len(candidates)):
                 if candidates[i] > target:
-                    break
-                comb(i, part + [candidates[i]], target - candidates[i])
-        
-
-        comb(0,[],target)
+                    continue
+                comb(path + [candidates[i]], i, target - candidates[i])
+        comb([], 0 , target)
         return res
         

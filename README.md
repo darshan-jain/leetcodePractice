@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0131-palindrome-partitioning](https://github.com/darshan-jain/leetcodePractice/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/darshan-jain/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |

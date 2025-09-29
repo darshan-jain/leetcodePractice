@@ -1,13 +1,13 @@
 from collections import defaultdict
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        #build the graph - adj list 
         graph = defaultdict(list)
         for a,b in prerequisites:
             graph[a].append(b)
-        
-        #detect cycle 
-        def cycle(course, seen):
+
+        seen = set()
+        #returns True if cycle exists
+        def cycle(course,seen):
             if course in seen:
                 return True
             seen.add(course)
@@ -15,15 +15,13 @@ class Solution:
                 if cycle(c,seen):
                     return True
             seen.remove(course)
-            graph[course] = []
+            graph[course]= []
             return False
+        
 
-        seen = set()
-        for i in range(numCourses):
-            for course in graph[i]:
-                if cycle(course,seen):
-                    return False
+        for n in range(numCourses):
+            if cycle(n,seen):
+                return False
         return True
-
 
         

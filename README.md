@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
@@ -640,6 +646,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 ## Monotonic Stack

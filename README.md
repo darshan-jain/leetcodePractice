@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [0988-flip-equivalent-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0988-flip-equivalent-binary-trees) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
 ## Matrix
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
@@ -697,4 +701,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->

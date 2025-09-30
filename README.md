@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darshan-jain/leetcodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -705,4 +708,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

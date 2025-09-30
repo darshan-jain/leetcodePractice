@@ -1,18 +1,18 @@
 import heapq
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
-        seen = set()
-        minheap = [(0,0)]
+        minheap = [(0,0)] #dist, node 
         total_cost = 0 
+        seen = set()
         n = len(points)
 
         while minheap:
-            dist,i = heapq.heappop(minheap)
-            if i in seen:
+            dist,node = heapq.heappop(minheap)
+            if node in seen:
                 continue
+            seen.add(node)
             total_cost+=dist 
-            seen.add(i)
-            xi,yi = points[i]
+            xi,yi = points[node]
 
             for j in range(n):
                 if j not in seen:
@@ -20,5 +20,4 @@ class Solution:
                     val = abs(xi-xj) + abs(yi-yj)
                     heapq.heappush(minheap, (val, j))
         return total_cost
-                    
         

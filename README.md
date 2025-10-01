@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0120-triangle](https://github.com/darshan-jain/leetcodePractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshan-jain/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/darshan-jain/leetcodePractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0078-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |

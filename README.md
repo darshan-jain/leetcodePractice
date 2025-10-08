@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darshan-jain/leetcodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/darshan-jain/leetcodePractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Recursion
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Matrix
 |  |
 | ------- |
@@ -763,4 +767,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/darshan-jain/leetcodePractice/tree/master/0332-reconstruct-itinerary) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->

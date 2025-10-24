@@ -2,16 +2,20 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         hms = {}
         hmt = {}
-        if len(t) > len(s):
-            s,t = t,s
-        for char in s:
-            hms[char] = 1 + hms.get(char,0)
+
+        for c in s:
+            hms[c] = 1 + hms.get(c,0)
         
-        for char in t:
-            hmt[char] = 1+hmt.get(char,0)
+        for c in t:
+            hmt[c] = 1+hmt.get(c,0)
         
-        for key,val in hms.items():
-            if key not in hmt or val != hmt[key]:
+        if len(hmt)!=len(hms):
+            return False
+
+        for c in s:
+            k,v = c,hms[c]
+            if k not in hmt or hmt[c]!=hms[c]:
                 return False
+        
         return True
         

@@ -1,24 +1,28 @@
-class Solution(object):
-    def productExceptSelf(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        rightProd = []
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        res = []
+        left = [] 
+        right = []
+
+        for i in range(len(nums)):
+            if i==0:
+                left.append(1)
+            else:
+                val = left[-1] * nums[i-1]
+                left.append(val)
+        
         for i in range(len(nums)-1,-1,-1):
             if i==len(nums)-1:
-                rightProd.append(1)
+                right.append(1)
             else:
-                rightProd.append(rightProd[-1]* nums[i+1])
-        rightProd = rightProd[::-1]
-        leftProd = []
-        for i in range(0,len(nums)):
-            if i==0:
-                leftProd.append(1)
-            else:
-                leftProd.append(leftProd[-1]* nums[i-1])
-        res = []
-        for i in range(0,len(nums)):
-            res.append(leftProd[i]* rightProd[i])
+                val = right[-1] * nums[i+1]
+                right.append(val)
+        right = right[::-1]
+        # print(left)
+        # print(right)
+        for i in range(len(left)):
+            res.append(left[i]*right[i])
         return res
+
+            
         

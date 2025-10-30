@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0143-reorder-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |

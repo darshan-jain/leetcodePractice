@@ -1,22 +1,24 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        def dfs(row, col,idx):
-            if idx>=len(word):
+
+        def dfs(r,c,i):
+            if i>=len(word):
                 return True
-            if 0<=row<len(board) and 0<=col < len(board[0]) and board[row][col]==word[idx]:
-                letter = board[row][col]
-                board[row][col] = ""
-                found = dfs(row+1,col,idx+1) or dfs(row-1,col,idx+1) or dfs(row,col+1,idx+1) or dfs(row,col-1,idx+1)
-                board[row][col] = letter
-                if found:
-                    return True
-            else:
+            if r<0 or r>=rows or c<0 or c>=cols or word[i]!=board[r][c]:
                 return False
+            letter = board[r][c]
+            board[r][c]=""
+            found = dfs(r+1,c,i+1) or dfs(r-1,c,i+1) or dfs(r,c+1,i+1) or dfs(r,c-1,i+1)
+            board[r][c] = letter
+            if found:
+                return True
+                
 
-
-        for row in range(len(board)):
-            for col in range(len(board[0])):
-                if board[row][col]==word[0] and dfs(row, col,0):
+        rows = len(board)
+        cols = len(board[0])
+        for r in range(rows):
+            for c in range(cols):
+                if board[r][c]==word[0] and dfs(r,c,0):
                     return True
         return False
         

@@ -9,13 +9,13 @@ class Solution:
             return None
         dummy = ListNode(0,head)
         slow = dummy 
-        fast = head 
+        fast = head
         while n>0:
             fast = fast.next
-            n = n-1
+            n=n-1
         while fast:
-            fast= fast.next
-            slow = slow.next 
-        slow.next = slow.next.next 
+            fast = fast.next
+            slow = slow.next
+        slow.next = slow.next.next
         return dummy.next
         

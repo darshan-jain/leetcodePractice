@@ -8,21 +8,19 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if root is None:
             return []
-        result = []
-        level = []
-        next_level = []
         q = [root]
+        res = []
         while q:
+            next_level = []
+            temp = []
             for node in q:
-                level.append(node.val)
                 if node.left:
                     next_level.append(node.left)
                 if node.right:
                     next_level.append(node.right)
-            result.append(level)
+            for item in q:
+                temp.append(item.val)
+            res.append(temp)
             q = next_level
-            next_level = []
-            level = []
-        return result
-
+        return res
         

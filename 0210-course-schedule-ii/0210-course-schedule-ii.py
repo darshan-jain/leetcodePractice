@@ -9,23 +9,22 @@ class Solution:
         VISITING = 1
         VISITED = 2
         state = [UNVISITED for _ in range(numCourses)]
+
         def dfs(node):
-            if state[node]==VISITING:
-                return False 
-            if state[node]==VISITED:
+            if state[node] == VISITING:
+                return False
+            if state[node] == VISITED:
                 return True
-            state[node] = VISITING 
+            state[node] = VISITING
             for nei in graph[node]:
                 if dfs(nei) == False:
                     return False
-            state[node] = VISITED 
+            state[node] = VISITED
             res.append(node)
             return True
-
-        
 
         for i in range(numCourses):
             if dfs(i)==False:
                 return []
-        return res 
+        return res
         

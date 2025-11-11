@@ -18,9 +18,10 @@ class Codec:
                 return ["null"]
             return [str(root.val)] + dfs(root.left) + dfs(root.right)
         val = dfs(root)
+        print(val)
         return str(val)
     
-    def helper(self,data):
+    def helper(self, data):
         val = data.pop()
         if val=="null":
             return None
@@ -28,6 +29,7 @@ class Codec:
         node.left = self.helper(data)
         node.right = self.helper(data)
         return node
+        
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -35,10 +37,10 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        data = ast.literal_eval(data) #safely evals the string
+        data = ast.literal_eval(data)
         data = data[::-1]
-        node = self.helper(data)
-        return node
+        te = self.helper(data)
+        return te
         
 
 # Your Codec object will be instantiated and called as such:

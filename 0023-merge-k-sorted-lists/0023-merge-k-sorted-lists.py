@@ -7,7 +7,7 @@ import heapq
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         dummy = ListNode(0)
-        tail = dummy
+        tail = dummy 
         minheap = []
         for i in range(len(lists)):
             node = lists[i]
@@ -18,6 +18,6 @@ class Solution:
             tail.next = node
             tail = tail.next
             if node.next:
-                heapq.heappush(minheap, (node.next.val,i,node.next))
+                heapq.heappush(minheap,(node.next.val,i,node.next))
         return dummy.next
         

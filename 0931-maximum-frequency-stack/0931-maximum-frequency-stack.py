@@ -3,14 +3,14 @@ class FreqStack:
     def __init__(self):
         self.count = {}
         self.maxV = 0 
-        self.stacks = {}
+        self.stacks ={}
         
 
     def push(self, val: int) -> None:
         valcnt = 1 + self.count.get(val,0)
-        self.count[val] = valcnt
+        self.count[val] = valcnt 
         if valcnt > self.maxV:
-            self.maxV = valcnt
+            self.maxV = valcnt 
             self.stacks[valcnt] = []
         self.stacks[valcnt].append(val)
         

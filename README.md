@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
+| [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
+| [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
@@ -818,4 +821,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/darshan-jain/leetcodePractice/tree/master/0455-assign-cookies) |
+| [0480-sliding-window-median](https://github.com/darshan-jain/leetcodePractice/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/darshan-jain/leetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/darshan-jain/leetcodePractice/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/darshan-jain/leetcodePractice/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/darshan-jain/leetcodePractice/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |

@@ -9,9 +9,8 @@ class Solution:
             heapq.heappush(maxheap, -nums[i])
             heapq.heappush(minheap, -heapq.heappop(maxheap))
 
-            if len(minheap) > len(maxheap):
+            if len(minheap)>len(maxheap):
                 heapq.heappush(maxheap, -heapq.heappop(minheap))
-        
         if k%2==1:
             median = -maxheap[0]
             res.append(median)
@@ -40,11 +39,9 @@ class Solution:
             while maxheap and heap_dict[-maxheap[0]]>0:
                 heap_dict[-maxheap[0]]-=1
                 heapq.heappop(maxheap)
-            
             while minheap and heap_dict[minheap[0]]>0:
                 heap_dict[minheap[0]]-=1
                 heapq.heappop(minheap)
-            
             if k%2==1:
                 median = -maxheap[0]
                 res.append(median)
@@ -53,7 +50,5 @@ class Solution:
                 res.append(median)
         return res
             
-            
-            
-        
+
         

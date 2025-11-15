@@ -11,9 +11,9 @@ class Solution:
                 val = board[i][j]
                 row[i].add(val)
                 col[j].add(val)
-                box_id = (i//3)*3 + (j//3)
-                sq[box_id].add(val)
-
+                boxid = (i//3) *3 + (j//3)
+                sq[boxid].add(val)
+        
         def backtrack(r,c):
             if r==9:
                 return True
@@ -21,22 +21,21 @@ class Solution:
                 return backtrack(r+1,0)
             if board[r][c]!='.':
                 return backtrack(r,c+1)
-            box_id = (r//3)*3 + (c//3)
-
-            for nnn in range(1,10):
-                num = str(nnn)
-                if num not in row[r] and num not in col[c] and num not in sq[box_id]:
+            boxid = (r//3)*3 + (c//3)
+            for num in "123456789":
+                if num not in row[r] and num not in col[c] and num not in sq[boxid]:
                     board[r][c] = num
                     row[r].add(num)
                     col[c].add(num)
-                    sq[box_id].add(num)
+                    sq[boxid].add(num)
                     if backtrack(r,c+1):
                         return True
                     board[r][c] = '.'
                     row[r].remove(num)
                     col[c].remove(num)
-                    sq[box_id].remove(num)
+                    sq[boxid].remove(num)
             return False
+
 
         backtrack(0,0)
         

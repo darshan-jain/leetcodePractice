@@ -23,9 +23,10 @@ class Solution:
                 return backtrack(r,c+1)
             box_id = (r//3)*3 + (c//3)
 
-            for num in "123456789":
+            for nnn in range(1,10):
+                num = str(nnn)
                 if num not in row[r] and num not in col[c] and num not in sq[box_id]:
-                    board[r][c] = str(num)
+                    board[r][c] = num
                     row[r].add(num)
                     col[c].add(num)
                     sq[box_id].add(num)

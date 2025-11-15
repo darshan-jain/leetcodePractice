@@ -11,11 +11,11 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         dummy = ListNode(0,head)
-        groupPrev = dummy 
+        groupPrev=dummy 
 
         def getkthnode(curr,k):
             while curr and k>0:
-                curr = curr.next 
+                curr = curr.next
                 k=k-1
             return curr
 
@@ -24,12 +24,13 @@ class Solution(object):
             if not kth:
                 break
             groupNext = kth.next
-            prev,curr = kth.next, groupPrev.next
+            prev,curr = kth.next, groupPrev.next 
             while curr!=groupNext:
                 temp = curr.next
                 curr.next = prev
                 prev = curr
                 curr = temp
+            
             temp = groupPrev.next
             groupPrev.next = kth
             groupPrev = temp

@@ -8,17 +8,20 @@ class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         if root is None:
             return 0 
-        curr_level = [(root,1)]
-        max_width = 1
-        while curr_level:
+        q = [(root,1)]
+        ans = 1
+        while q:
             next_level = []
-            for node,pos in curr_level:
-                if node.left:
-                    next_level.append((node.left, 2*pos))
-                if node.right:
-                    next_level.append((node.right, 2*pos+1))
-            if next_level!= [] :
-                max_width = max(max_width, next_level[-1][1] - next_level[0][1]+1)
-            curr_level = next_level
-        return max_width
+            for elem, pos in q:
+                if elem.left:
+                    next_level.append([elem.left,2*pos])
+                if elem.right:
+                    next_level.append([elem.right, 2*pos+1])
+            if next_level:
+                ans = max(ans, next_level[-1][1] - next_level[0][1]+1)
+            q = next_level
+        return ans 
+
+
+
         

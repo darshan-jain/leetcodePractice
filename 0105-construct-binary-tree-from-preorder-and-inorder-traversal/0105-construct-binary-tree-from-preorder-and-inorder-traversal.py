@@ -9,10 +9,10 @@ class Solution:
         if len(preorder)==0:
             return None
         root = preorder[0]
-        index = -1
+        index = -1 
         for i in range(len(inorder)):
             if inorder[i]==root:
-                index = i
+                index = i 
                 break
         node = TreeNode(root)
         node.left = self.buildTree(preorder[1:index+1], inorder[:index+1])

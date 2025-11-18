@@ -8,25 +8,24 @@ class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if root is None:
             return []
+        q = [root]
         turn = 0 
-        curr_level = [root]
         res = []
-        while curr_level:
+        while q:
             next_level = []
-            for node in curr_level:
-                if node.left:
-                    next_level.append(node.left)
-                if node.right:
-                    next_level.append(node.right)
-            path = []
-            for item in curr_level:
-                path.append(item.val)
-            if(turn%2==0):
-                res.append(path)
+            level = []
+            for item in q:
+                level.append(item.val)
+                if item.left:
+                    next_level.append(item.left)
+                if item.right:
+                    next_level.append(item.right)
+            if turn%2==0:
+                res.append(level)
             else:
-                res.append(path[::-1])
+                res.append(level[::-1])
             turn+=1
-            curr_level = next_level
+            q = next_level
         return res
 
         

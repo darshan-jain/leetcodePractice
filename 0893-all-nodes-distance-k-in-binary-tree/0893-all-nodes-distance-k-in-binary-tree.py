@@ -4,24 +4,25 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-from collections import deque
+from collections import defaultdict
 class Solution:
     def __init__(self):
         self.hm = {}
     def relationship(self,curr,parent):
-        if curr is None:
+        if not curr:
             return 
         self.hm[curr] = parent
-        self.relationship(curr.left,curr)
+        self.relationship(curr.left, curr)
         self.relationship(curr.right, curr)
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         #edge case 
-        if root is None:
+        if not root:
             return []
-        #build a hashmap of child -> parent
+        
+        #build the hashmap 
         self.relationship(root, None)
 
-        #using a Queue -> Do BFS 
+        #BFS
         q = deque([target])
         visit = set()
         res = []
@@ -38,15 +39,9 @@ class Solution:
                     q.append(self.hm[curr])
         
         while q:
-            curr = q.popleft()
-            res.append(curr.val)
+            node = q.popleft()
+            res.append(node.val)
         return res
-
-
-
-
-
-
 
 
         

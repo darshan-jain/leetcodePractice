@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/darshan-jain/leetcodePractice/tree/master/0513-find-bottom-left-tree-value) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/darshan-jain/leetcodePractice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0133-clone-graph](https://github.com/darshan-jain/leetcodePractice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/darshan-jain/leetcodePractice/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 ## Merge Sort
 |  |
 | ------- |

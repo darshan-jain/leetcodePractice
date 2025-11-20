@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/darshan-jain/leetcodePractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Prefix Sum
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
@@ -712,6 +716,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
@@ -761,6 +766,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |

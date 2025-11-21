@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0050-powx-n](https://github.com/darshan-jain/leetcodePractice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0143-reorder-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |

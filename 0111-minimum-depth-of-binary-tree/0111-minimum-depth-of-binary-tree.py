@@ -10,7 +10,7 @@ class Solution:
             return 0 
         def dfs(root):
             if root is None:
-                return 0 
+                return 0
             if not root.left:
                 return dfs(root.right)+1
             if not root.right:

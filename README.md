@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/darshan-jain/leetcodePractice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0113-path-sum-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/darshan-jain/leetcodePractice/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0437-path-sum-iii) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/darshan-jain/leetcodePractice/tree/master/0332-reconstruct-itinerary) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0437-path-sum-iii) |

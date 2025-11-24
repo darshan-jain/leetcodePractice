@@ -5,9 +5,8 @@ class Solution:
         if len(up)==0:
             self.ans.append(p)
             return 
-        ch= up[0]
-        self.helper(p+[ch],up[1:])
-        self.helper(p,up[1:])
+        self.helper(p+[up[0]], up[1:])
+        self.helper(p, up[1:])
 
     def subsets(self, nums: List[int]) -> List[List[int]]:
         self.helper([],nums)

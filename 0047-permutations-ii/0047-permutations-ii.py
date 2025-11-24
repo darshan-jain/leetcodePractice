@@ -13,9 +13,10 @@ class Solution:
                     sol.append(n)
                     count[n]-=1
                     dfs()
-                    count[n]+=1
                     sol.pop()
+                    count[n]+=1
 
+        
         dfs()
         return ans
         

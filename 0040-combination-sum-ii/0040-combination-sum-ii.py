@@ -3,18 +3,17 @@ class Solution:
         res = []
         candidates.sort()
 
-        def backtrack(path, index, target):
-            if target ==0:
+        def comb(path, start, target):
+            if target==0:
                 res.append(path[:])
                 return 
-            
-            for j in range(index,len(candidates)):
-                if candidates[j]>target:
-                    break
-                if j > index and candidates[j]==candidates[j-1]:
+            for i in range(start, len(candidates)):
+                if candidates[i] > target:
                     continue
-                backtrack(path+[candidates[j]], j+1, target - candidates[j])
-        
-        backtrack([],0,target)
+                elif i>start and candidates[i]==candidates[i-1]:
+                    continue
+                comb(path + [candidates[i]], i+1, target-candidates[i])
+
+        comb([], 0, target)
         return res
         

@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
+| [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0643-maximum-average-subarray-i](https://github.com/darshan-jain/leetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |

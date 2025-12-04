@@ -11,17 +11,15 @@ class Solution:
         for i in range(left-1):
             leftPre = leftPre.next 
             curr = curr.next 
-        
-        subListHead = curr 
-
-        preNode = None
+        subListhead = curr
+        preNode = None 
         for i in range(right-left+1):
-            nextNode = curr.next 
+            nxtnode = curr.next 
             curr.next = preNode
-            preNode = curr 
-            curr = nextNode 
+            preNode = curr
+            curr = nxtnode 
         
-        leftPre.next = preNode 
-        subListHead.next = curr
+        subListhead.next = curr
+        leftPre.next = preNode
         return dummy.next
         

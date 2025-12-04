@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |

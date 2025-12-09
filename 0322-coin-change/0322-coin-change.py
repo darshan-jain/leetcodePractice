@@ -3,10 +3,11 @@ class Solution:
         if len(coins)==0:
             return 0 
         dp = [amount+1]*(amount+1)
-        dp[0] = 0
-        for i in range(1,len(dp)):
+        dp[0] = 0 
+        for i in range(1,amount+1):
             for c in coins:
-                if c<=i and dp[i-c]!=amount+1:
-                    dp[i] = min(dp[i], 1+dp[i-c])
+                if c <=i and dp[i-c]!=amount+1:
+                    dp[i] = min(dp[i], 1+ dp[i-c])
         return dp[-1] if dp[-1]!=amount+1 else -1
+
         

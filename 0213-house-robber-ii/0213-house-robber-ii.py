@@ -7,9 +7,7 @@ class Solution:
                 else:
                     nums[i] = max(nums[i]+nums[i-2], nums[i-1])
             return nums[-1]
-
-        
         if len(nums)==1:
             return nums[0]
-        return max(helper(nums[1:]),helper(nums[:-1]))
+        return max(helper(nums[:-1]), helper(nums[1:]))
         

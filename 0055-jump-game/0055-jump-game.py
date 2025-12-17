@@ -1,13 +1,9 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        right = 0 
-        last = len(nums)-1
-
-        for i in range(len(nums)):
-            if i > right: 
-                return False 
-            if i + nums[i] > right:
-                right = i + nums[i]
-            if right >=last:
-                return True
+        n = len(nums)
+        finalpos = n-1 
+        for i in range(n-2,-1,-1):
+            if (i+nums[i]>=finalpos):
+                finalpos = i 
+        return finalpos ==0
         

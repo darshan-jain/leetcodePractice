@@ -6,15 +6,14 @@ class Solution:
         # lenLis = [4,3,2,2,1]
         # count =  [2,2,1,1,1]
 
-        dp = {} #index -> length of LIS, count 
+        dp = {} #index-> length of LIS, count 
         lenLis, res = 0,0
-
         for i in range(len(nums)-1,-1,-1):
-            maxLen, maxCount = 1,1
+            maxLen, maxCount = 1,1 
             for j in range(i+1, len(nums)):
-                if nums[j] > nums[i]:
-                    length, count = dp[j]
-                    if length+1 > maxLen:
+                if nums[j]>nums[i]:
+                    length, count= dp[j]
+                    if length+1>maxLen:
                         maxLen, maxCount = length+1, count
                     elif length+1==maxLen:
                         maxCount+=count
@@ -25,3 +24,5 @@ class Solution:
                 res+=maxCount
             dp[i] = maxLen, maxCount
         return res
+
+        

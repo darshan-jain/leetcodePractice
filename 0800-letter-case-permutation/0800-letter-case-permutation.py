@@ -15,7 +15,7 @@ class Solution:
             nocap = parstr[0:letterset[idx]] + parstr[letterset[idx]].lower() + parstr[letterset[idx]+1:]
             recr(cap, idx+1)
             recr(nocap, idx+1)
-        if letterset:  
+        if letterset:
             recr(s,0)
         else:
             return [s]

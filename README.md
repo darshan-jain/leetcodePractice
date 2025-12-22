@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0606-construct-string-from-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
+| [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0673-number-of-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/darshan-jain/leetcodePractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
 |  |
 | ------- |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |

@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0338-counting-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
 ## Bitmask

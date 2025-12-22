@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darshan-jain/leetcodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/darshan-jain/leetcodePractice/tree/master/1894-merge-strings-alternately) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Breadth-First Search
 |  |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 ## Design
 |  |

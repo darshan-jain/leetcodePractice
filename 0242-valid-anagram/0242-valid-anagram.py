@@ -5,16 +5,12 @@ class Solution:
 
         for c in s:
             hms[c] = 1 + hms.get(c,0)
-
-        for c in t:
-            hmt[c] = 1+hmt.get(c,0)
-
-        if len(hms)!=len(hmt):
-            return False
         
-        for c in s:
-            k,v = c,hms[c]
-            if k not in hmt or v !=hmt[k]:
-                return False
-        return True
+        for c in t:
+            hmt[c] = 1 + hmt.get(c,0)
+        
+        for k,v in hms.items():
+            if k not in hmt or hmt[k]!=v:
+                return False 
+        return True if len(hms)==len(hmt) else False
         

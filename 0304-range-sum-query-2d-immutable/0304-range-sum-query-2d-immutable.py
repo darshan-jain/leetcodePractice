@@ -1,25 +1,19 @@
 class NumMatrix:
 
     def __init__(self, matrix: List[List[int]]):
-        #full prefix matrix
-        self.prefix = []
+        r = len(matrix)
+        c = len(matrix[0])
+        self.mat = [[0]*(c+1) for _ in range(r+1)]
+        for i in range(1,r+1):
+            for j in range(1,c+1):
+                self.mat[i][j] = self.mat[i-1][j] + self.mat[i][j-1] - self.mat[i-1][j-1] + matrix[i-1][j-1]
+
+        print(self.mat)
         
-        #construct each row
-        for i in range(len(matrix)):
-            row = []
-            val = 0 
-            for j in range(len(matrix[0])):
-                val+=matrix[i][j]
-                row.append(val)
-            self.prefix.append(row)
-        print(self.prefix)
         
 
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
-        val = 0 
-        for i in range(row1,row2+1):
-            rowval = self.prefix[i][col2] - self.prefix[i][col1-1] if col1-1>=0 else self.prefix[i][col2]
-            val+=rowval
+        val = self.mat[row2+1][col2+1] - self.mat[row2+1][col1] - self.mat[row1][col2+1] + self.mat[row1][col1]
         return val
         
 

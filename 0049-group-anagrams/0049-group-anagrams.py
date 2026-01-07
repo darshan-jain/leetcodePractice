@@ -4,11 +4,15 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        dict = collections.defaultdict(list)
+        hm = {}
+        for word in strs:
+            sword = sorted(word)
+            sword = ''.join(sword)
+            if sword not in hm:
+                hm[sword] = []
+            hm[sword].append(word)
+        ans = []
+        for k,v in hm.items():
+            ans.append(v)
 
-        for val in strs:
-            key = ''.join(sorted(val))
-            dict[key].append(val)
-        
-        return dict.values()
-        
+        return ans

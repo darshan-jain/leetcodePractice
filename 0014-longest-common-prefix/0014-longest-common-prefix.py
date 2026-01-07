@@ -1,7 +1,7 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         ans = ""
-        shortest = min(strs, key=len)
+        shortest = min(strs,key=len)
         for j in range(len(shortest)):
             for i in range(len(strs)):
                 if strs[i][j]!=shortest[j]:

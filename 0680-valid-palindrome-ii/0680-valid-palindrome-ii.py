@@ -20,4 +20,3 @@ class Solution:
                 return isPalindrome(s,l+1,r) or isPalindrome(s,l,r-1)
         return True
         
-        

@@ -1,20 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        if s==" ":
-            return True
-        s = list(s)
-        t = []
-
+        letters = ""
         for c in s:
             if c.isalnum():
-                t.append(c.lower())
+                letters += c.lower()
         
-        left = 0 
-        right = len(t)-1
-        while left<=right:
-            if t[left]!=t[right]:
-                return False
-            left+=1
-            right-=1
+        l = 0 
+        r = len(letters)-1
+        while l<=r:
+            if letters[l]!=letters[r]:
+                return False 
+            l+=1
+            r-=1
         return True
         

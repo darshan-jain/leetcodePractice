@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/darshan-jain/leetcodePractice/tree/master/1028-interval-list-intersections) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/darshan-jain/leetcodePractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Prefix Sum
 |  |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |

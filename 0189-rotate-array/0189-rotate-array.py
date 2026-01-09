@@ -4,15 +4,14 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         def rev(nums,s,e):
-            while e > s:
-                nums[s],nums[e] = nums[e], nums[s]
+            while e>s:
+                nums[s],nums[e] = nums[e],nums[s]
                 s+=1
                 e-=1
             return nums
-        k = k%len(nums)
-        nums = rev(nums, 0 , len(nums)-1)
+        n = len(nums)
+        k = k%n
+        nums = rev(nums, 0, n-1)
         nums = rev(nums, 0,k-1)
-        nums = rev(nums, k,len(nums)-1)
-
-
+        nums = rev(nums, k,n-1)
         

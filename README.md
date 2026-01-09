@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshan-jain/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/darshan-jain/leetcodePractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0148-sort-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshan-jain/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0344-reverse-string) |

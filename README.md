@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0654-maximum-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2058-concatenation-of-array) |

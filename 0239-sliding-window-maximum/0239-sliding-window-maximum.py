@@ -8,6 +8,6 @@ class Solution:
             if i>=k-1:
                 while heap[0][1]<=i-k:
                     heapq.heappop(heap)
-                output.append(-heap[0][0])
+                output.append(-1*heap[0][0])
         return output
         

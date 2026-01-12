@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/darshan-jain/leetcodePractice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/darshan-jain/leetcodePractice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0682-baseball-game) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/darshan-jain/leetcodePractice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/darshan-jain/leetcodePractice/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |

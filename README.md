@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/darshan-jain/leetcodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/darshan-jain/leetcodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0203-remove-linked-list-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 ## Backtracking
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0173-binary-search-tree-iterator](https://github.com/darshan-jain/leetcodePractice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/darshan-jain/leetcodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0682-baseball-game) |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/darshan-jain/leetcodePractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/darshan-jain/leetcodePractice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/darshan-jain/leetcodePractice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/darshan-jain/leetcodePractice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshan-jain/leetcodePractice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |

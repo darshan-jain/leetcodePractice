@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/darshan-jain/leetcodePractice/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/darshan-jain/leetcodePractice/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0654-maximum-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/darshan-jain/leetcodePractice/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
@@ -1016,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/darshan-jain/leetcodePractice/tree/master/0937-online-stock-span) |
 ## Shortest Path
 |  |
 | ------- |

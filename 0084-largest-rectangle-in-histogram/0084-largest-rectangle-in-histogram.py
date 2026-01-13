@@ -19,15 +19,15 @@ class Solution:
         stack = []
         for i in range(n-1,-1,-1):
             if not stack:
-                right[i] = n-1 
+                right[i] = n-1
                 stack.append(i)
             else:
-                while stack and heights[stack[-1]]>=heights[i]:
+                while stack and heights[stack[-1]] >= heights[i]:
                     stack.pop()
                 right[i] = n-1 if not stack else stack[-1]-1
                 stack.append(i)
-
+        
         for i in range(n):
-            maxarea = max(maxarea, heights[i]* (right[i]-left[i]+1))
+            maxarea = max(maxarea, heights[i]*(right[i]-left[i]+1))
         return maxarea
         

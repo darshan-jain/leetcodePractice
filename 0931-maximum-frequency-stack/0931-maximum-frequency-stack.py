@@ -3,7 +3,7 @@ class FreqStack:
     def __init__(self):
         self.count = {}
         self.maxV = 0 
-        self.stacks ={}
+        self.stacks = {}
         
 
     def push(self, val: int) -> None:

@@ -15,7 +15,7 @@ class Solution:
             Bleft = B[j] if j>=0 else float("-inf")
             Bright = B[j+1] if j+1<len(B) else float("inf")
 
-            if Aleft<=Bright and Bleft<=Bright:
+            if Aleft<=Bright and Bleft<=Aright:
                 if tot%2: #even number of elements
                     return min(Aright,Bright)
                 return ( max(Aleft,Bleft) + min(Aright,Bright)  )/2

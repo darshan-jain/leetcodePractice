@@ -8,33 +8,39 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if not head:
+        #edge cases 
+        if head is None:
             return None
+        #find mid point
         slow = head 
         fast = head 
         while fast and fast.next:
             slow = slow.next 
-            fast= fast.next.next 
-        
+            fast = fast.next.next 
         mid = slow 
-        nxt = mid.next
-        mid.next = None 
-        prev= None 
-        while nxt:
-            temp= nxt.next 
-            nxt.next = prev 
-            prev = nxt 
-            nxt = temp 
-        
-        head2 = prev 
-        head1 = head 
-        while head1 and head2:
-            l1next = head1.next 
-            l2next = head2.next 
-            head1.next = head2
-            head2.next = l1next 
-            head1 = l1next
-            head2 = l2next 
-        
+        l2 = mid.next
+        mid.next = None
 
+
+
+        #reverse the 2nd List 
+        curr = l2 
+        prev= None
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+        l2 = prev
+
+        #Merge
+        l1 = head
+        while l1 and l2:
+            l1next = l1.next
+            l2next = l2.next
+            l1.next = l2
+            l2.next = l1next
+            l1 = l1next
+            l2 = l2next
+        return head
         

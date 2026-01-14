@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
+| [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/darshan-jain/leetcodePractice/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |

@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |

@@ -7,14 +7,19 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
-        l,r = 1,n
+        # arr = []
+        # for i in range(n):
+        #     arr.append(i+1)
+        l = 1
+        r = n
         while l<=r:
             m = (l+r)//2
-            if guess(m)==0:
+            val = guess(m)
+            if val==0:
                 return m
-            elif guess(m) ==-1:
+            elif val ==-1:
                 r = m-1
             else:
                 l = m+1
-        return l
+        return 0
         

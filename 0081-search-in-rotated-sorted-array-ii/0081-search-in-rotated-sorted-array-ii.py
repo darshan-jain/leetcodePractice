@@ -1,6 +1,6 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> bool:
-        l =0
+        l = 0 
         r = len(nums)-1
         while l<=r:
             m = l + (r-l)//2
@@ -8,10 +8,10 @@ class Solution:
                 return True
             if nums[l]<nums[m]:
                 if nums[l]<=target<=nums[m]:
-                    r = m-1
+                    r=m-1
                 else:
                     l = m+1
-            elif nums[l]>nums[m]:
+            elif nums[l] > nums[m]:
                 if nums[m]<=target<=nums[r]:
                     l = m+1
                 else:
@@ -19,6 +19,4 @@ class Solution:
             else:
                 l = l+1
         return False
-
-
         

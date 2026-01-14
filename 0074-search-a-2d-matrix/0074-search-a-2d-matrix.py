@@ -1,19 +1,19 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        if not matrix:
-            return False 
-        row = len(matrix)
-        col = len(matrix[0])
-        beg = 0 
-        end = row*col
-        while beg < end:
-            mid = beg + (end-beg)//2
-            idx= matrix[mid//col][mid%col]
-            if idx == target:
+        rows = len(matrix)
+        cols = len(matrix[0])
+        l = 0 
+        r = rows*cols-1
+        while l<=r:
+            m = (l+r)//2
+            val = matrix[m//cols][m%cols] #cols since we are explanding on the cols axis
+            if val==target:
                 return True
-            elif idx < target:
-                beg = mid+1
+            elif val > target:
+                r= m-1
             else:
-                end = mid
+                l = m+1
         return False
+
+
         

@@ -11,28 +11,29 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         dummy = ListNode(0,head)
-        groupPrev=dummy 
-
-        def getkthnode(curr,k):
+        groupPrev = dummy 
+        
+        def getkthNode(curr,k):
             while curr and k>0:
-                curr = curr.next
-                k=k-1
+                curr = curr.next 
+                k-=1
             return curr
-
+        
         while True:
-            kth = getkthnode(groupPrev,k)
+            kth = getkthNode(groupPrev,k)
             if not kth:
                 break
-            groupNext = kth.next
-            prev,curr = kth.next, groupPrev.next 
+            groupNext = kth.next 
+            prev,curr = kth.next, groupPrev.next
             while curr!=groupNext:
                 temp = curr.next
-                curr.next = prev
+                curr.next = prev 
                 prev = curr
                 curr = temp
             
             temp = groupPrev.next
-            groupPrev.next = kth
+            groupPrev.next = prev
             groupPrev = temp
         return dummy.next
+
         

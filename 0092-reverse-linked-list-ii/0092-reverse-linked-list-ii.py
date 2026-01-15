@@ -9,17 +9,18 @@ class Solution:
         leftPre = dummy 
         curr = head 
         for i in range(left-1):
-            leftPre = leftPre.next 
-            curr = curr.next 
-        subListhead = curr
-        preNode = None 
-        for i in range(right-left+1):
-            nxtnode = curr.next 
+            curr = curr.next
+            leftPre = leftPre.next
+        subListhead = curr 
+        preNode = None
+        for _ in range(right-left+1):
+            temp = curr.next
             curr.next = preNode
-            preNode = curr
-            curr = nxtnode 
-        
-        subListhead.next = curr
+            preNode =curr
+            curr = temp
+        subListhead.next = curr 
         leftPre.next = preNode
         return dummy.next
+
+
         

@@ -12,15 +12,15 @@ class Solution(object):
         """
         dummy = ListNode(0,head)
         groupPrev = dummy 
-        
-        def getkthNode(curr,k):
+
+        def getkthnode(curr,k):
             while curr and k>0:
-                curr = curr.next 
+                curr = curr.next
                 k-=1
-            return curr
+            return curr 
         
         while True:
-            kth = getkthNode(groupPrev,k)
+            kth = getkthnode(groupPrev,k)
             if not kth:
                 break
             groupNext = kth.next 
@@ -32,8 +32,7 @@ class Solution(object):
                 curr = temp
             
             temp = groupPrev.next
-            groupPrev.next = prev
+            groupPrev.next = prev 
             groupPrev = temp
         return dummy.next
-
         

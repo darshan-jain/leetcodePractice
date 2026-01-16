@@ -7,15 +7,21 @@
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
         if root is None:
-            return 0 
+            return 0
+
         def dfs(root):
             if root is None:
-                return [0,0] #rob, not rob 
+                return [0,0]
             if root.left is None and root.right is None:
-                return [root.val, 0]
+                return [0,root.val]
             left = dfs(root.left)
             right = dfs(root.right)
-            return [root.val+ left[1]+right[1], max(left[0], left[1]) + max(right[0], right[1])]
-        vals = dfs(root)
-        return max(vals[0], vals[1])
+            # val1 = left[1] + right[1]
+            val2 = root.val + left[0] + right[0]
+            return [max(left) + max(right),val2]
+        
+        final = dfs(root)
+        return max(final)
+        
+
         

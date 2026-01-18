@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0662-maximum-width-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
@@ -1110,4 +1114,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

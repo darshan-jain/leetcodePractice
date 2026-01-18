@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
+| [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/darshan-jain/leetcodePractice/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0948-sort-an-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |

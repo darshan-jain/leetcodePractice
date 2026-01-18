@@ -14,10 +14,13 @@ class Solution:
             if node in oldtonew:
                 return oldtonew[node]
             copy = Node(node.val)
-            oldtonew[node] = copy 
+            oldtonew[node] = copy
             for nei in node.neighbors:
                 copy.neighbors.append(dfs(nei))
             return copy
 
-        return dfs(node) if node is not None else None
+        if node is None:
+            return None
+        dfs(node)
+        return oldtonew[node]
         

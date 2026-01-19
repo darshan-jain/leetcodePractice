@@ -1,34 +1,34 @@
+from collections import deque
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        fresh = 0
-        time = 0 
-        rotten  = []
-        ROWS = len(grid)
-        COLS = len(grid[0])
-        for r in range(ROWS):
-            for c in range(COLS):
-                if grid[r][c]==1:
+        rows = len(grid)
+        cols = len(grid[0])
+        fresh = 0 
+        rotten = deque()
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j]==1:
                     fresh+=1
-                elif grid[r][c]==2:
-                    rotten.append((r,c))
+                if grid[i][j]==2:
+                    rotten.append([i,j])
         
-        while rotten and fresh>0:
+        time = -1 
+        visit = set()
+        if fresh==0:
+            return 0
+        while rotten:
             time+=1
-            curr = []
-            for r,c in rotten:
+            print(rotten)
+            for _ in range(len(rotten)):
+                r,c  = rotten.popleft()
                 lst = [(r+1,c),(r-1,c),(r,c+1),(r,c-1)]
                 for row,col in lst:
-                    if 0<=row<ROWS and 0<=col<COLS and grid[row][col]==1:
-                        grid[row][col]=2
-                        curr.append((row,col))
+                    if row>=0 and row<len(grid) and col>=0  and col < len(grid[0]) and grid[row][col]==1 and (row,col) not in visit:
                         fresh-=1
-                        if fresh==0:
-                            return time
-                rotten = curr
+                        grid[row][col]=2
+                        visit.add((row,col))
+                        rotten.append([row,col])
         
-        if fresh==0:
-            return time
-        return -1
-
-
+        return time if fresh==0 else -1
+            
         

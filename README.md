@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
+| [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/darshan-jain/leetcodePractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0684-redundant-connection](https://github.com/darshan-jain/leetcodePractice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/darshan-jain/leetcodePractice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
+| [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |

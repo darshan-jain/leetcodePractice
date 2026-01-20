@@ -2,15 +2,16 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
         candidates.sort()
-
-        def comb(path, start, target):
-            if target==0:
+        def comb(path,i,tar):
+            if tar==0:
                 res.append(path[:])
                 return 
-            for i in range(start, len(candidates)):
-                if candidates[i] > target:
+            for j in range(i,len(candidates)):
+                if candidates[j] > tar:
                     continue
-                comb(path + [candidates[i]], i, target - candidates[i])
-        comb([], 0 , target)
+                comb(path+[candidates[j]],j,tar-candidates[j])
+             
+        
+        comb([],0,target)
         return res
         

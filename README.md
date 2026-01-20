@@ -1124,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0133-clone-graph](https://github.com/darshan-jain/leetcodePractice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/darshan-jain/leetcodePractice/tree/master/1039-find-the-town-judge) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |

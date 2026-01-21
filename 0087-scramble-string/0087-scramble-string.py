@@ -9,6 +9,9 @@ class Solution:
             key = s1+s2
             if key in hm:
                 return hm[key]
+            if Counter(s1)!=Counter(s2):
+                hm[key] = False
+                return hm[key]
             n = len(s1)
             
             for i in range(1,len(s1)):

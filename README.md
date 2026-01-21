@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1236-n-th-tribonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1236-n-th-tribonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3199-distribute-candies-among-children-i](https://github.com/darshan-jain/leetcodePractice/tree/master/3199-distribute-candies-among-children-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0062-unique-paths) |
+| [3199-distribute-candies-among-children-i](https://github.com/darshan-jain/leetcodePractice/tree/master/3199-distribute-candies-among-children-i) |
 ## Graph
 |  |
 | ------- |
@@ -1153,4 +1155,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/darshan-jain/leetcodePractice/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->

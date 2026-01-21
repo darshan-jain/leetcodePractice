@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/darshan-jain/leetcodePractice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/darshan-jain/leetcodePractice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/darshan-jain/leetcodePractice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/darshan-jain/leetcodePractice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/darshan-jain/leetcodePractice/tree/master/0115-distinct-subsequences) |

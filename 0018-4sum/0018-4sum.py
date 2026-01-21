@@ -1,34 +1,28 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        if len(nums)<4:
-            return []
-        ans = []
+        res = []
         nums.sort()
         hm = defaultdict(list)
         for i in range(len(nums)-1):
             for j in range(i+1,len(nums)):
-                val = nums[i]+ nums[j]
-                hm[val].append([i,j])
-        #print(hm)
-
+                hm[nums[i] + nums[j]].append((i,j))
+        
         for i in range(len(nums)-1):
             if i>0 and nums[i]==nums[i-1]:
                 continue
             for j in range(i+1,len(nums)):
                 if j>i+1 and nums[j]==nums[j-1]:
                     continue
-                valtofind = target - nums[i] - nums[j]
-                if valtofind in hm:
-                    lst = hm[valtofind]
-                    for k,l in lst:
+                tofind = target - nums[i]-nums[j]
+                if tofind in hm:
+                    vals = hm[tofind]
+                    for k,l in vals:
                         if k>j:
-                            if len(ans)!=0 and ans[-1][0]==nums[i] and ans[-1][1]==nums[j] and ans[-1][2]==nums[k] and ans[-1][3]==nums[l]:
+                            if len(res)!=0 and nums[i]==res[-1][0] and nums[j]==res[-1][1] and nums[k]==res[-1][2] and nums[l]==res[-1][3]:
                                 continue
-                            ans.append([nums[i], nums[j], nums[k], nums[l]])
-
-
-        return ans
-
+                            res.append([nums[i], nums[j], nums[k], nums[l]])
+        
+        return res
 
 
         

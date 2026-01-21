@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/darshan-jain/leetcodePractice/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/0647-palindromic-substrings) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/darshan-jain/leetcodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/darshan-jain/leetcodePractice/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/darshan-jain/leetcodePractice/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/darshan-jain/leetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
+| [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
 ## Bitmask
@@ -1134,4 +1138,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
+## Bitmask DP
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1894-merge-strings-alternately](https://github.com/darshan-jain/leetcodePractice/tree/master/1894-merge-strings-alternately) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/darshan-jain/leetcodePractice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Math
 |  |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
+| [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
 ## Trie
 |  |
 | ------- |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/darshan-jain/leetcodePractice/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
 ## Iterator
 |  |
 | ------- |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0908-middle-of-the-linked-list) |
+| [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
 ## Simulation
 |  |
 | ------- |
@@ -1046,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1081,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
+| [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
 ## Geometry
 |  |
 | ------- |

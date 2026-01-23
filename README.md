@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Recursion
 |  |
 | ------- |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/darshan-jain/leetcodePractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0680-valid-palindrome-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
+| [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/darshan-jain/leetcodePractice/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0772-construct-quad-tree) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
+| [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0304-range-sum-query-2d-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/darshan-jain/leetcodePractice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0931-maximum-frequency-stack) |
@@ -777,6 +781,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
+| [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
 ## String Matching
 |  |
 | ------- |

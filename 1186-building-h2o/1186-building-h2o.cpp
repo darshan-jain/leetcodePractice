@@ -14,9 +14,9 @@ public:
     void hydrogen(function<void()> releaseHydrogen) {
         unique_lock<mutex> lock(mtx);
 
-        cv.wait(lock,[&](){
-            return hCount<2;
-        });
+        while(!(hCount<2)){
+            cv.wait(lock);
+        }
         
         // releaseHydrogen() outputs "H". Do not change or remove this line.
         releaseHydrogen();

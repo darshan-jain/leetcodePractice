@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/darshan-jain/leetcodePractice/tree/master/0753-open-the-lock) |
+| [0763-special-binary-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/darshan-jain/leetcodePractice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0394-decode-string) |
+| [0763-special-binary-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0763-special-binary-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 ## Backtracking

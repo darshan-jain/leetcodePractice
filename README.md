@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Recursion
 |  |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/darshan-jain/leetcodePractice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Design
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
+| [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 ## Trie
 |  |
 | ------- |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2058-concatenation-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
+| [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 ## Combinatorics
 |  |
 | ------- |

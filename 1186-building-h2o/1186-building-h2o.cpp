@@ -31,9 +31,9 @@ public:
     void oxygen(function<void()> releaseOxygen) {
         unique_lock<mutex> lock(mtx);
 
-        cv.wait(lock, [&](){
-            return oCount<1;
-        });
+        while(!(oCount<1)){
+            cv.wait(lock);
+        }
 
         
         // releaseOxygen() outputs "O". Do not change or remove this line.

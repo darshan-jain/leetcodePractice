@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/darshan-jain/leetcodePractice/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/darshan-jain/leetcodePractice/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/darshan-jain/leetcodePractice/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |

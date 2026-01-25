@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/darshan-jain/leetcodePractice/tree/master/0441-arranging-coins) |
+| [0909-stone-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0909-stone-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/darshan-jain/leetcodePractice/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
@@ -1220,4 +1223,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1186-building-h2o](https://github.com/darshan-jain/leetcodePractice/tree/master/1186-building-h2o) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->

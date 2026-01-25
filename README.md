@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
+| [1130-last-stone-weight-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1559-cherry-pickup-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
+| [1130-last-stone-weight-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1130-last-stone-weight-ii) |
 | [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1559-cherry-pickup-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1559-cherry-pickup-ii) |

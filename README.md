@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
+| [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/darshan-jain/leetcodePractice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Math
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1250-longest-common-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1559-cherry-pickup-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
+| [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Recursion
 |  |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
+| [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/darshan-jain/leetcodePractice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Design
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/darshan-jain/leetcodePractice/tree/master/0746-prefix-and-suffix-search) |
+| [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |

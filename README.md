@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0131-palindrome-partitioning](https://github.com/darshan-jain/leetcodePractice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/darshan-jain/leetcodePractice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/darshan-jain/leetcodePractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/darshan-jain/leetcodePractice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/darshan-jain/leetcodePractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/0279-perfect-squares) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0142-linked-list-cycle-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/darshan-jain/leetcodePractice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/darshan-jain/leetcodePractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |

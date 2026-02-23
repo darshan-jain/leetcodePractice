@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1028-interval-list-intersections](https://github.com/darshan-jain/leetcodePractice/tree/master/1028-interval-list-intersections) |
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/darshan-jain/leetcodePractice/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Interactive
 |  |
 | ------- |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0658-find-k-closest-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sorting
 |  |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0473-matchsticks-to-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/darshan-jain/leetcodePractice/tree/master/0800-letter-case-permutation) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Bitmask
 |  |
 | ------- |
@@ -1177,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0225-implement-stack-using-queues](https://github.com/darshan-jain/leetcodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/darshan-jain/leetcodePractice/tree/master/0239-sliding-window-maximum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
 | ------- |

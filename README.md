@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1031-add-to-array-form-of-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1236-n-th-tribonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [3199-distribute-candies-among-children-i](https://github.com/darshan-jain/leetcodePractice/tree/master/3199-distribute-candies-among-children-i) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+| [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darshan-jain/leetcodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sorting
 |  |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0948-sort-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
+| [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
@@ -1146,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Data Stream
 |  |

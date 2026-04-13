@@ -1245,4 +1245,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/darshan-jain/leetcodePractice/tree/master/0909-stone-game) |
+## Sweep Line
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->

@@ -1,21 +1,26 @@
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
-        def canSplit(largest):
-            subarray = 0
-            curSum = 0 
-            for n in nums:
-                curSum+=n
-                if curSum > largest:
+        l = max(nums)
+        r = sum(nums)
+        res = r 
+
+        def canSplit(val):
+            subarray = 1 
+            w = 0 
+            for i in nums:
+                w+=i
+                if w > val:
                     subarray+=1
-                    curSum = n 
-            return subarray+1 <=k
-        l,r = max(nums), sum(nums)
-        res = r
+                    w=i
+                
+            return subarray<=k
+
         while l<=r:
-            mid = l + ((r-l)//2)
-            if canSplit(mid):
-                res = mid
-                r = mid-1
+            m = (l+r)//2
+            if canSplit(m):
+                res = min(res, m)
+                r = m-1
             else:
-                l = mid+1
+                l=m+1
         return res
+        

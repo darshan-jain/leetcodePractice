@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 | [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 | [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -1109,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2058-concatenation-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
+| [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 ## Combinatorics
 |  |

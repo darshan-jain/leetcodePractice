@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0801-is-graph-bipartite](https://github.com/darshan-jain/leetcodePractice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/darshan-jain/leetcodePractice/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/darshan-jain/leetcodePractice/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |

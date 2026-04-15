@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Recursion
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1036-rotting-oranges](https://github.com/darshan-jain/leetcodePractice/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1559-cherry-pickup-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1174,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/darshan-jain/leetcodePractice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/darshan-jain/leetcodePractice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1228,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/darshan-jain/leetcodePractice/tree/master/1039-find-the-town-judge) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |

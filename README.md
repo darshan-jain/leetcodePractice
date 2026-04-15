@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/darshan-jain/leetcodePractice/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/darshan-jain/leetcodePractice/tree/master/2389-design-a-text-editor) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/darshan-jain/leetcodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/darshan-jain/leetcodePractice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/darshan-jain/leetcodePractice/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/darshan-jain/leetcodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2587-design-memory-allocator](https://github.com/darshan-jain/leetcodePractice/tree/master/2587-design-memory-allocator) |
 | [2755-extra-characters-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1708-design-parking-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1708-design-parking-system) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/darshan-jain/leetcodePractice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Quickselect
 |  |

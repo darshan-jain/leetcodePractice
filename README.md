@@ -1236,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/darshan-jain/leetcodePractice/tree/master/1039-find-the-town-judge) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union-Find
 |  |
@@ -1243,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/darshan-jain/leetcodePractice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/darshan-jain/leetcodePractice/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 ## Bitmask DP
 |  |
 | ------- |

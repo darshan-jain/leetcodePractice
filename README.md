@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/darshan-jain/leetcodePractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/darshan-jain/leetcodePractice/tree/master/0343-integer-break) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/darshan-jain/leetcodePractice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/darshan-jain/leetcodePractice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1013-fibonacci-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0304-range-sum-query-2d-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/darshan-jain/leetcodePractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/darshan-jain/leetcodePractice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/0377-combination-sum-iv) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/darshan-jain/leetcodePractice/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/darshan-jain/leetcodePractice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
@@ -1010,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/darshan-jain/leetcodePractice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/darshan-jain/leetcodePractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
@@ -1152,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |
 ## Merge Sort
 |  |
@@ -1233,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/darshan-jain/leetcodePractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/darshan-jain/leetcodePractice/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/darshan-jain/leetcodePractice/tree/master/1039-find-the-town-judge) |
 | [1558-course-schedule-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1558-course-schedule-iv) |

@@ -11,15 +11,15 @@ class Solution:
             '8':"tuv",
             '9':"wxyz"
         }
-        def backtrack(index, curStr):
-            if index==len(digits):
-                res.append(curStr[:])
+
+        def dfs(idx,curr):
+            if idx==len(digits):
+                res.append(curr)
                 return 
-            for j in digittostr[digits[index]]:
-                backtrack(index+1, curStr + j)
+            for j in digittostr[digits[idx]]:
+                dfs(idx+1,curr+j)
 
-
-        if digits:
-            backtrack(0,"")
+        dfs(0,"")
         return res
-        
+
+       

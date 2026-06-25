@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1127-last-stone-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1130-last-stone-weight-ii) |
 | [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
+| [1217-relative-sort-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1559-cherry-pickup-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/darshan-jain/leetcodePractice/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1217-relative-sort-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/darshan-jain/leetcodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2139-detect-squares](https://github.com/darshan-jain/leetcodePractice/tree/master/2139-detect-squares) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0948-sort-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1217-relative-sort-array) |
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1217-relative-sort-array) |
 ## Graph Theory
 |  |
 | ------- |

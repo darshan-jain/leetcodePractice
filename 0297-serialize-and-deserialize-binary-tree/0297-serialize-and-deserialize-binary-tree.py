@@ -16,13 +16,11 @@ class Codec:
         def preorder(root):
             if root is None:
                 return ["null"]
-            return [str(root.val)] + preorder(root.left) + preorder(root.right)
+            return [root.val] + preorder(root.left) + preorder(root.right)
         lst = preorder(root)
         return str(lst)
-        
+
     def helper(self, data):
-        if len(data)==0:
-            return
         val = data.pop()
         if val=="null":
             return None
@@ -37,10 +35,11 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
+        
         data = ast.literal_eval(data)
         data = data[::-1]
-        val = self.helper(data)
-        return val
+        root = self.helper(data)
+        return root
         
 
 # Your Codec object will be instantiated and called as such:

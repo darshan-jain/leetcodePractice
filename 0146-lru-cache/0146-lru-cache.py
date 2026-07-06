@@ -1,30 +1,30 @@
 class Node:
-    def __init__(self,key,val):
+    def __init__(self,key,value):
         self.key = key 
-        self.val = val 
-        self.prev = None 
-        self.next = None 
+        self.val = value
+        self.next = None
+        self.prev = None
 class LRUCache:
 
     def __init__(self, capacity: int):
+        self.cap = capacity 
         self.cache = {}
-        self.capacity = capacity 
-        self.leftNode = Node(0,0)
-        self.rightNode = Node(0,0)
-        self.leftNode.next = self.rightNode 
-        self.rightNode.prev = self.leftNode
+        self.left = Node(0,0)
+        self.right = Node(0,0)
+        self.left.next =self.right
+        self.right.prev = self.left
     
     def insert(self,node):
-        last, prev = self.rightNode, self.rightNode.prev
-        prev.next = node 
-        node.prev = prev
-        last.prev = node 
-        node.next = last
+        last,prev = self.right, self.right.prev 
+        prev.next = node
+        node.prev = prev 
+        node.next = last 
+        last.prev = node
     
     def remove(self,node):
         prev,nxt = node.prev, node.next
         prev.next = nxt 
-        nxt.prev = prev
+        nxt.prev= prev
         
 
     def get(self, key: int) -> int:
@@ -44,8 +44,8 @@ class LRUCache:
         self.cache[key] = newnode
         self.insert(newnode)
 
-        if len(self.cache) > self.capacity:
-            lru = self.leftNode.next 
+        if len(self.cache) > self.cap:
+            lru = self.left.next
             self.remove(lru)
             del self.cache[lru.key]
         

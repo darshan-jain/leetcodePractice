@@ -4,14 +4,14 @@ class Solution:
         for c in s:
             if c=='(':
                 stack.append(')')
-            elif c =='[':
+            elif c=='[':
                 stack.append(']')
             elif c=='{':
                 stack.append('}')
             else:
-                if not stack or c!=stack[-1]:
+                if not stack or stack[-1]!=c:
                     return False
                 else:
                     stack.pop()
-        return True if len(stack)==0 else False
+        return True if not stack else False
         

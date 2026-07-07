@@ -1,9 +1,12 @@
 from collections import defaultdict
 import heapq
+
+#first I had data as an array - Took very long time 
+# then transformed data into dictionary
 class Twitter:
 
     def __init__(self):
-        self.data = defaultdict(list) # person->[(time, userId)]
+        self.data = defaultdict(list) # userId->[(time, tweetId)]
         self.time = 0 
         self.graph = defaultdict(list) #networkgraph
         self.maxheap = []

@@ -8,12 +8,13 @@ class Solution:
                 res.append(path[:])
                 return 
             for i in range(start, len(candidates)):
-                if candidates[i] > target:
-                    break
-                if i>start and candidates[i]==candidates[i-1]:
+                if i>start and candidates[i] == candidates[i-1]:
                     continue
-                comb(path + [candidates[i]], i+1, target-candidates[i])
-        
-        comb([],0,target)
+                if candidates[i] > target:
+                    continue
+                comb(path + [candidates[i]], i+1, target - candidates[i])
+
+
+        comb([], 0, target)
         return res
         

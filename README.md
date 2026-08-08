@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0257-binary-tree-paths](https://github.com/darshan-jain/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/darshan-jain/leetcodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0394-decode-string) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/darshan-jain/leetcodePractice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/darshan-jain/leetcodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/darshan-jain/leetcodePractice/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/darshan-jain/leetcodePractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/darshan-jain/leetcodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/darshan-jain/leetcodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/darshan-jain/leetcodePractice/tree/master/0621-task-scheduler) |

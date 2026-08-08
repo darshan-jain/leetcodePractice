@@ -1,21 +1,17 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         hm = {}
-        left=0 
-        right = 0 
-        maxfruits = 0 
-
-        for right in range(0,len(fruits)):
-            hm[fruits[right]] = 1+ hm.get(fruits[right], 0)
-
-            while len(hm)>2:
-                fruitcount = hm[fruits[left]]
-                if fruitcount==1:
-                    del hm[fruits[left]]
-                else:
-                    hm[fruits[left]]-=1
-                left+=1
-            
-            maxfruits = max(maxfruits, right-left+1)
-        return maxfruits
+        l = 0 
+        r = 0 
+        maxfruitcnt = 0 
+        while r<len(fruits):
+            hm[fruits[r]]=1+hm.get(fruits[r],0)
+            if len(hm)>2:
+                hm[fruits[l]]-=1
+                if hm[fruits[l]]==0:
+                    del hm[fruits[l]]
+                l+=1
+            maxfruitcnt = max(maxfruitcnt, r-l+1)
+            r+=1
+        return maxfruitcnt
         

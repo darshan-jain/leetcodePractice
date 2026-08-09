@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darshan-jain/leetcodePractice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/darshan-jain/leetcodePractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Two Pointers
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0778-reorganize-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/darshan-jain/leetcodePractice/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/darshan-jain/leetcodePractice/tree/master/0917-boats-to-save-people) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/darshan-jain/leetcodePractice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/darshan-jain/leetcodePractice/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Prefix Sum
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0560-subarray-sum-equals-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
 | ------- |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/darshan-jain/leetcodePractice/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/darshan-jain/leetcodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sorting
 |  |
@@ -983,6 +988,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1217-relative-sort-array) |
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
@@ -1304,11 +1310,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/darshan-jain/leetcodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
-## BellmanÃ¢ÂÂFord Algorithm
+## BellmanÃÂ¢ÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
-## FloydÃ¢ÂÂWarshall Algorithm
+## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |

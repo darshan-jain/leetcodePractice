@@ -1304,11 +1304,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/darshan-jain/leetcodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
-## BellmanâFord Algorithm
+## BellmanÃ¢ÂÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
-## FloydâWarshall Algorithm
+## FloydÃ¢ÂÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |

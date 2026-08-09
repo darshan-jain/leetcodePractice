@@ -1,51 +1,44 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         graph = defaultdict(list)
-        i=0
-        for a,b in equations:
-            val = values[i]
-            graph[a].append((b,val))
-            graph[b].append((a,1/val))
-            i+=1
-        
         nodes = set()
-        for k in graph.keys():
-            nodes.add(k)
+        for i in range(len(equations)):
+            start = equations[i][0]
+            end = equations[i][1]
+            val = values[i]
+            graph[start].append((end, val))
+            graph[end].append((start, 1/val))
+            nodes.add(start)
+            nodes.add(end)
         
-        und = -1
-        same = 1
+        
+        def bfs(start, end,visited):
+            if start == end:
+                return 1 
+            q = deque([(start, 1)])
+            while q:
+                node, dist = q.popleft()
+                if node == end:
+                    return dist
+                visited.add(node)
+                for nei,vv in graph[node]:
+                    if nei not in visited:
+                        q.append((nei, dist*vv))
+            return -1
+
+
+
         res = []
-
-        for a,c in queries:
-            visited = set()
-            visited.add(a)
-            if a==c and a in nodes:
-                res.append(same)
-                continue
-            if a not in nodes or c not in nodes:
-                res.append(und)
-                continue
-            queue = deque([(a,1)])
-            while queue:
-                node,val = queue.popleft()
-                if node ==c:
-                    res.append(val)
-                    break
-                for nei in graph[node]:
-                    if nei[0] not in visited:
-                        queue.append((nei[0],val*nei[1]))
-                    visited.add(nei[0])
-            
-            if c not in visited:
-                res.append(und)
+        for q in queries:
+            start = q[0]
+            end = q[1]
+            if start not in nodes or end not in nodes:
+                res.append(-1)
+            else:
+                visited = set()
+                val = bfs(start, end,visited)
+                res.append(val)
         return res
-
-
-
-
-
-            
-
 
 
 

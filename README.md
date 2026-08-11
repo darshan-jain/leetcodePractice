@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1392-find-the-difference-of-two-arrays](https://github.com/darshan-jain/leetcodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1559-cherry-pickup-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1580-shuffle-the-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1677-matrix-diagonal-sum) |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1217-relative-sort-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1733-maximum-number-of-visible-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1733-maximum-number-of-visible-points) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/darshan-jain/leetcodePractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/darshan-jain/leetcodePractice/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -1310,11 +1312,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/darshan-jain/leetcodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
-## BellmanÃÂ¢ÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
-## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |

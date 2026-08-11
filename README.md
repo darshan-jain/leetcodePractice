@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshan-jain/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/darshan-jain/leetcodePractice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/darshan-jain/leetcodePractice/tree/master/0367-valid-perfect-square) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/darshan-jain/leetcodePractice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/darshan-jain/leetcodePractice/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/darshan-jain/leetcodePractice/tree/master/1185-find-in-mountain-array) |
 ## Sliding Window
@@ -1312,11 +1314,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/darshan-jain/leetcodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
-## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
-## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |

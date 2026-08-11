@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/darshan-jain/leetcodePractice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/darshan-jain/leetcodePractice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/darshan-jain/leetcodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/darshan-jain/leetcodePractice/tree/master/0053-maximum-subarray) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/darshan-jain/leetcodePractice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/darshan-jain/leetcodePractice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1318,12 +1321,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/darshan-jain/leetcodePractice/tree/master/1146-greatest-common-divisor-of-strings) |
-## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
-## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/darshan-jain/leetcodePractice/tree/master/0399-evaluate-division) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

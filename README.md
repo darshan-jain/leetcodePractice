@@ -29,6 +29,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0024-swap-nodes-in-pairs) |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 ## Hash Table
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

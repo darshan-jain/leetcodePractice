@@ -1,13 +1,12 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        adjlst = defaultdict(list)
+        hm = defaultdict(list)
         for i,c in enumerate(s):
-            adjlst[c].append(i)
-        ans = float("inf")
-        for k,v in adjlst.items():
+            hm[c].append(i)
+        ans= float("inf")
+        for k,v in hm.items():
             if len(v)>1:
                 continue
-            else:
-                ans = min(ans, v[0])
-        return ans if ans!= float("inf") else -1
+            ans = min(ans, v[0])
+        return ans if ans!=float("inf") else -1
         

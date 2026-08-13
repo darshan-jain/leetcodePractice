@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->

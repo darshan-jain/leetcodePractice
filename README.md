@@ -47,11 +47,13 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1646-kth-missing-positive-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [1646-kth-missing-positive-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0024-swap-nodes-in-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

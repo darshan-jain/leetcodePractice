@@ -10,29 +10,32 @@ class Solution(object):
         :type k: int
         :rtype: Optional[ListNode]
         """
-        dummy = ListNode(0,head)
+        dummy = ListNode(-1,head)
         groupPrev = dummy 
-
-        def getkthnode(curr,k):
+        def getkthnode(node,k):
+            curr = node 
             while curr and k>0:
                 curr = curr.next
                 k-=1
-            return curr 
-        
+            return curr
+
+
         while True:
             kth = getkthnode(groupPrev,k)
             if not kth:
                 break
             groupNext = kth.next 
-            prev,curr = kth.next, groupPrev.next
+            prev, curr = groupNext, groupPrev.next
             while curr!=groupNext:
                 temp = curr.next
                 curr.next = prev 
-                prev = curr
+                prev = curr 
                 curr = temp
             
             temp = groupPrev.next
             groupPrev.next = prev 
             groupPrev = temp
-        return dummy.next
+        return dummy.next 
+
+
         

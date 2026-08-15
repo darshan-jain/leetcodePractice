@@ -8,21 +8,20 @@ class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
-        """ 
-
+        """
         self.temp = []
-
-        def inorder(root):
-            if root is None:
+        def dfs(root):
+            if not root:
                 return 
-            inorder(root.left)
+            dfs(root.left)
             self.temp.append(root)
-            inorder(root.right)
-            
-        inorder(root)
-        srt = sorted(n.val for n in self.temp)
-        
-        for i in range(len(self.temp)):
-            self.temp[i].val = srt[i]
-        
+            dfs(root.right)
+        dfs(root)
+        first = second = None 
+        for i in range(1,len(self.temp)):
+            if self.temp[i-1].val > self.temp[i].val:
+                if not first:
+                    first = self.temp[i-1]
+                second = self.temp[i]
+        first.val,second.val = second.val,first.val
         

@@ -33,6 +33,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -70,6 +72,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Sorting
 |  |

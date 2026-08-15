@@ -4,12 +4,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
+| [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |

@@ -97,10 +97,12 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,4 +111,5 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

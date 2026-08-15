@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
+| [0507-perfect-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0507-perfect-number) |
 ## Dynamic Programming
 |  |
 | ------- |

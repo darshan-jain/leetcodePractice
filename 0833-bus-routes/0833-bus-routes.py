@@ -1,17 +1,15 @@
-from collections import defaultdict
+from collections import defaultdict, deque
 class Solution:
     def numBusesToDestination(self, routes: List[List[int]], source: int, target: int) -> int:
-
         if source == target:
             return 0 
         
-        #stop -> [buses]
         graph = defaultdict(list)
-        for i, route in enumerate(routes):
+        for i,route in enumerate(routes):
             for stop in route:
                 graph[stop].append(i)
         
-        q = deque([(source,0)])
+        q = deque([(source, 0)]) #stop, number of buses taken so far 
         visited_stops = {source}
         visited_buses = set()
         while q:
@@ -19,7 +17,6 @@ class Solution:
             for bus in graph[stop]:
                 if bus in visited_buses:
                     continue
-
                 visited_buses.add(bus)
 
                 for next_stop in routes[bus]:
@@ -29,4 +26,5 @@ class Solution:
                         visited_stops.add(next_stop)
                         q.append((next_stop, buses_taken+1))
         return -1
+
         

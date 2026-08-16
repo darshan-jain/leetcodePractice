@@ -36,6 +36,7 @@
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0815-champagne-tower](https://github.com/darshan-jain/leetcodePractice/tree/master/0815-champagne-tower) |
 ## Recursion
 |  |
 | ------- |

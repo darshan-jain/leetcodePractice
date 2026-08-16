@@ -103,6 +103,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,13 +113,27 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

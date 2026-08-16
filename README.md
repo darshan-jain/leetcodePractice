@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
@@ -77,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Linked List
@@ -115,4 +117,8 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0110-balanced-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

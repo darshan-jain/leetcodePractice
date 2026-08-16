@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/darshan-jain/leetcodePractice/tree/master/0077-combinations) |
 ## Design
 |  |
 | ------- |

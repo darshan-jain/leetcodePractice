@@ -1,36 +1,40 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
-
         stack = []
-
-        def check(a,b):
-            if a > abs(b):
-                return a
-            elif a==abs(b):
-                return None
-            else:
-                return b
-        
-        for el in asteroids:
-            if not stack:
-                stack.append(el)
-            else:
-                #if in same direction just append 
-                if (el > 0 and stack[-1]>0 ) or (el<0 and stack[-1]<0):
-                    stack.append(el)
-
-                #else in opp direction
-                #check until it reaches the same direction 
+        def getval(a,b):
+            if a == abs(b) or abs(a)== b:
+                return 0
+            if a<0:
+                if abs(a)> b:
+                    return a 
                 else:
-                    stack.append(el)
-                    while len(stack)>=2 and ( (stack[-2] > 0 and stack[-1]<0 )):
+                    return b 
+            else:
+                if abs(b)>a:
+                    return b 
+                else:
+                    return a 
+            
+        for val in asteroids:
+            if not stack:
+                stack.append(val)
+            else:
+                if (val>0 and stack[-1]>0 ) or (val<0 and stack[-1]<0):
+                    stack.append(val)
+                else:
+                    #different direction 
+                    stack.append(val)
+                    while len(stack)>=2 and (val<0 and stack[-2]>0):
                         a = stack.pop()
                         b = stack.pop()
-                        newval = check(b,a)
-                        if newval==None:
-                            continue
-                        else:
-                            stack.append(newval)
-                            
+                        fval = getval(a,b)
+                        print(a,b,val)
+                        if fval==0:
+                            break
+                        stack.append(fval)
+                        val = fval
+                        
         return stack
+                    
+                    
         

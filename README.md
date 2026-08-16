@@ -18,10 +18,12 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
@@ -61,6 +63,7 @@
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |

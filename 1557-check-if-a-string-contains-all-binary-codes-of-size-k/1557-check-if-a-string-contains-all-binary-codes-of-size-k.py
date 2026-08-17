@@ -8,13 +8,8 @@ class Solution:
                 vals.add(word)
         
 
-        for i in range(2**k-1,-1,-1):
-            binval = str(bin(i)[2:])
-            if len(binval)<k:
-                binval = "0"*(k-len(binval)) + binval
-            print(binval)
-            if binval not in vals:
-                return False 
-        return True
+        if len(vals)==2**k:
+            return True
+        return False
 
         

@@ -20,11 +20,13 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
+| [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
+| [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |

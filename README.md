@@ -14,6 +14,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/darshan-jain/leetcodePractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -168,4 +169,16 @@
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

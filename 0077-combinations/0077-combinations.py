@@ -7,10 +7,9 @@ class Solution:
                 res.append(sol[:])
                 return 
             for j in range(i+1,n+1):
-                if j not in sol:
-                    sol.append(j)
-                    backtrack(j, sol)
-                    sol.pop()
+                sol.append(j)
+                backtrack(j,sol)
+                sol.pop()
 
 
         for i in range(1,n+1):

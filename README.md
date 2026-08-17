@@ -17,6 +17,7 @@
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan-jain/leetcodePractice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Stack
@@ -30,6 +31,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan-jain/leetcodePractice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
 ## Math
 |  |
@@ -160,6 +162,7 @@
 | ------- |
 | [0899-binary-gap](https://github.com/darshan-jain/leetcodePractice/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan-jain/leetcodePractice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -181,7 +184,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |

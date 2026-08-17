@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
@@ -94,6 +96,7 @@
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0899-binary-gap](https://github.com/darshan-jain/leetcodePractice/tree/master/0899-binary-gap) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -177,7 +181,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |

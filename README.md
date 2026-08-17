@@ -144,4 +144,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0899-binary-gap](https://github.com/darshan-jain/leetcodePractice/tree/master/0899-binary-gap) |
 <!---LeetCode Topics End-->

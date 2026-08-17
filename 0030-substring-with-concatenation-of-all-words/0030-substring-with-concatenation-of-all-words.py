@@ -1,26 +1,38 @@
+from collections import Counter
+
 class Solution:
-    def findSubstring(self, s: str, words: List[str]) -> List[int]:
+    def findSubstring(self, s: str, words: list[str]) -> list[int]:
         if not s or not words:
             return []
         
-        totwords = len(words)
-        wordsize = len(words[0])
-        winsize = totwords * wordsize
-        freq_count = Counter(words)
+        k = len(words[0])
+        numWords = len(words)
+        totalLen = k * numWords
+        wordCount = Counter(words)
         res = []
-
-        for i in range(len(s)- winsize+1):
-            curr_freq = {}
-            j = i 
-            while j< i + winsize:
-                curr_word = s[j:j+wordsize]
-                if curr_word not in freq_count:
-                    break
-                curr_freq[curr_word] = 1+ curr_freq.get(curr_word,0)
-                if curr_freq[curr_word] > freq_count[curr_word]:
-                    break
-                j+=wordsize
-            if j==i+winsize:
-                res.append(i)
-        return res
         
+        for i in range(k):
+            left = i
+            subCount = Counter()
+            count = 0
+            
+            for j in range(i, len(s) - k + 1, k):
+                word = s[j:j + k]
+                if word in wordCount:
+                    subCount[word] += 1
+                    count += 1
+                    
+                    while subCount[word] > wordCount[word]:
+                        leftWord = s[left:left + k]
+                        subCount[leftWord] -= 1
+                        count -= 1
+                        left += k
+                        
+                    if count == numWords:
+                        res.append(left)
+                else:
+                    subCount.clear()
+                    count = 0
+                    left = j + k
+                    
+        return res

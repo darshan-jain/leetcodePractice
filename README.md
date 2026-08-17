@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/darshan-jain/leetcodePractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/darshan-jain/leetcodePractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
@@ -100,6 +102,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/darshan-jain/leetcodePractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |

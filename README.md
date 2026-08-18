@@ -43,6 +43,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0815-champagne-tower](https://github.com/darshan-jain/leetcodePractice/tree/master/0815-champagne-tower) |
 ## Recursion
@@ -74,6 +75,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/darshan-jain/leetcodePractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
@@ -189,7 +191,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
@@ -213,8 +215,16 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÅ¯vka's Algorithm
+## BorÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

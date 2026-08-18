@@ -33,11 +33,13 @@
 | [0874-backspace-string-compare](https://github.com/darshan-jain/leetcodePractice/tree/master/0874-backspace-string-compare) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan-jain/leetcodePractice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Math
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 | [0507-perfect-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0507-perfect-number) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/darshan-jain/leetcodePractice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -191,7 +194,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
@@ -215,7 +218,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂ¯vka's Algorithm
+## BorÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |

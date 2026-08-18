@@ -82,6 +82,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1646-kth-missing-positive-number) |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,8 +189,32 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
+## Union-Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
+## BorÅ¯vka's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

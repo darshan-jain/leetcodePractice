@@ -39,6 +39,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/darshan-jain/leetcodePractice/tree/master/0233-number-of-digit-one) |
 | [0507-perfect-number](https://github.com/darshan-jain/leetcodePractice/tree/master/0507-perfect-number) |
+| [0912-random-pick-with-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/0912-random-pick-with-weight) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@
 | [0735-asteroid-collision](https://github.com/darshan-jain/leetcodePractice/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/darshan-jain/leetcodePractice/tree/master/0833-bus-routes) |
 | [0862-find-and-replace-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0862-find-and-replace-in-string) |
+| [0912-random-pick-with-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/0912-random-pick-with-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/darshan-jain/leetcodePractice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1552-build-an-array-with-stack-operations](https://github.com/darshan-jain/leetcodePractice/tree/master/1552-build-an-array-with-stack-operations) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0912-random-pick-with-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/0912-random-pick-with-weight) |
 | [1646-kth-missing-positive-number](https://github.com/darshan-jain/leetcodePractice/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0912-random-pick-with-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/0912-random-pick-with-weight) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,7 +198,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darshan-jain/leetcodePractice/tree/master/0459-repeated-substring-pattern) |
@@ -218,7 +222,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂÃÂ¯vka's Algorithm
+## BorÃÂÃÂÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/darshan-jain/leetcodePractice/tree/master/1706-min-cost-to-connect-all-points) |
@@ -230,4 +234,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0416-partition-equal-subset-sum) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/darshan-jain/leetcodePractice/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->

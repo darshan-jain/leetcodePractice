@@ -52,4 +52,8 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->

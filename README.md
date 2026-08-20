@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->

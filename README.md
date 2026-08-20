@@ -56,6 +56,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0461-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1054-complement-of-base-10-integer) |
 ## Backtracking
 |  |

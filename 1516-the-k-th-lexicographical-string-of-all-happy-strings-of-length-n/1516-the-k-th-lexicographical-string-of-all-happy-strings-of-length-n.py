@@ -4,6 +4,8 @@ class Solution:
         letters = ['a','b','c']
 
         def backtrack(path):
+            if len(res)==k:
+                return res[-1]
             if len(path)==n:
                 res.append("".join(path[:]))
                 return 

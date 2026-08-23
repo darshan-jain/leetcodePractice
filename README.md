@@ -63,6 +63,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0812-rotate-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0812-rotate-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darshan-jain/leetcodePractice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

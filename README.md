@@ -15,6 +15,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->

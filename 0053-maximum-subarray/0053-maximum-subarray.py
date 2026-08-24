@@ -4,7 +4,8 @@ class Solution:
         max_sum = float("-inf")
         for num in nums:
             curr_sum+=num
-            max_sum = max(max_sum, curr_sum)
-            curr_sum = max(0,curr_sum)
-        return max_sum
+            max_sum = max(max_sum ,curr_sum)
+            curr_sum = max(0, curr_sum)
+        return max_sum 
+
         

@@ -2,18 +2,7 @@ class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
         n = len(nums1)
         nums2 = [0]*n
-        # oddc = 0 
-        # evenc = 0 
-        # for num in nums1:
-        #     if num%2==0:
-        #         evenc+=1
-        #     else:
-        #         oddc+=1
-        # isOdd = False 
-        # if oddc >= evenc:
-        #     isOdd = True
-        #if isOdd - fill with odd nos 
-        
+       
         def helpOdd():
             for i in range(n):
                 if nums1[i]%2!=0:
@@ -42,6 +31,6 @@ class Solution:
                     if fillPos == False:
                         return False
             return True
-        return helpOdd() or helpeven()
+        return helpeven() or helpOdd()
         
         

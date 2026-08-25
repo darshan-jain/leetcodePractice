@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -159,10 +160,12 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 ## String Matching
 |  |
 | ------- |

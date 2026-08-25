@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/darshan-jain/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
@@ -141,6 +143,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |

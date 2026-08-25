@@ -1,7 +1,7 @@
 class Solution:
     def maxWidthRamp(self, nums: List[int]) -> int:
         s = []
-        res = 0
+        res = 0 
         for i,num in enumerate(nums):
             if not s or nums[s[-1]] > num:
                 s.append(i)
@@ -9,5 +9,4 @@ class Solution:
             while s and nums[j]>=nums[s[-1]]:
                 res = max(res, j-s.pop())
         return res
-       
-       
+        

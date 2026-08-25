@@ -10,17 +10,11 @@ class Solution:
         q = deque([(headID, informTime[headID])]) #id, time
         dist = [float("inf")]*n
         dist[headID] = informTime[headID]
-        visit = set()
         while q:
             id,time = q.popleft()
-            if id in visit:
-                continue
-            if dist[id]>=time:
-                dist[id] = time
-                       
-            visit.add(id)
+            dist[id] = time
             for nei,tt in graph[id]:
-                if nei not in visit:
+                if dist[nei] > time+tt:
                     q.append((nei, time+tt))
         return max(dist)
         

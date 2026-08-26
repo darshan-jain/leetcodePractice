@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -95,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0812-rotate-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0812-rotate-string) |
@@ -145,6 +147,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |

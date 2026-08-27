@@ -25,6 +25,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
@@ -56,6 +57,7 @@
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Counting Sort
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/darshan-jain/leetcodePractice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [4256-construct-uniform-parity-array-i](https://github.com/darshan-jain/leetcodePractice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -218,9 +222,18 @@
 ## Number Theory
 |  |
 | ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Linked List
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->

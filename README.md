@@ -17,6 +17,7 @@
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
+| [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/darshan-jain/leetcodePractice/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/darshan-jain/leetcodePractice/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/darshan-jain/leetcodePractice/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
@@ -57,6 +60,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |

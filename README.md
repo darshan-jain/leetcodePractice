@@ -110,6 +110,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [4256-construct-uniform-parity-array-i](https://github.com/darshan-jain/leetcodePractice/tree/master/4256-construct-uniform-parity-array-i) |
+| [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## String
 |  |
@@ -123,6 +124,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darshan-jain/leetcodePractice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/darshan-jain/leetcodePractice/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 ## Bracket Sequences
 |  |
 | ------- |

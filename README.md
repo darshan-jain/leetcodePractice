@@ -25,6 +25,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -101,6 +102,7 @@
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [4256-construct-uniform-parity-array-i](https://github.com/darshan-jain/leetcodePractice/tree/master/4256-construct-uniform-parity-array-i) |
@@ -222,6 +224,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Linked List
@@ -231,9 +234,11 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->

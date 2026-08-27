@@ -4,9 +4,13 @@ class Solution:
         minheap = []
 
         def divisible(num):
+            seen = set()
             for val in numsDivide:
+                if val in seen:
+                    continue
                 if val%num!=0:
                     return False
+                seen.add(val)
             return True
 
         for k,v in cnt.items():

@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
+| [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
@@ -124,6 +125,7 @@
 | [0812-rotate-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darshan-jain/leetcodePractice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/darshan-jain/leetcodePractice/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -188,6 +190,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |

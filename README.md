@@ -38,6 +38,7 @@
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -46,6 +47,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/darshan-jain/leetcodePractice/tree/master/1002-maximum-width-ramp) |
@@ -53,6 +55,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -122,6 +125,7 @@
 | [0091-decode-ways](https://github.com/darshan-jain/leetcodePractice/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0812-rotate-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |

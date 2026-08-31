@@ -1,6 +1,6 @@
 class Solution:
     def twoEditWords(self, queries: List[str], dictionary: List[str]) -> List[str]:
-        
+        dictionary.sort()
         ans = []
         def getdist(w1,w2):
             res = 0 

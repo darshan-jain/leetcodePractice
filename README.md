@@ -27,6 +27,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -60,6 +61,7 @@
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |

@@ -264,6 +264,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
+| [0328-odd-even-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0328-odd-even-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |

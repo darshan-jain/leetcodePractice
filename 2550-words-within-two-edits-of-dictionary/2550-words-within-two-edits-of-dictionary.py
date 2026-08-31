@@ -15,26 +15,21 @@ class Trie:
         d.isWord = True
     
     def search(self, word, root, diff, idx):
-        if diff < 0:
-            return False
-        
-        if idx == len(word):
-            return root.isWord
-
+        if diff < 0 :
+            return False 
+        if idx==len(word):
+            return True
         letter = word[idx]
-
-        # 1. Option A: Exact match (0 edits)
-        if letter in root.children:
-            if self.search(word, root.children[letter], diff, idx + 1):
+        cur = root 
+        if letter in cur.children:
+            if self.search(word, cur.children[letter], diff, idx+1):
                 return True
-
-        # 2. Option B: Substitution edit (1 edit) - try all other branches
-        if diff > 0:
-            for c, child in root.children.items():
-                if c != letter:  # Skip the exact match we already tried above
-                    if self.search(word, child, diff - 1, idx + 1):
+        
+        if diff >0:
+            for c,child in cur.children.items():
+                if c!=letter:
+                    if self.search(word, child, diff-1, idx+1):
                         return True
-
         return False
 
 

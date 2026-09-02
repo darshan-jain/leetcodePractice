@@ -131,6 +131,7 @@
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
+| [0657-robot-return-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
@@ -258,6 +259,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 ## Bracket Sequences

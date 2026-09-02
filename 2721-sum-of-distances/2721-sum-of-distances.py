@@ -15,7 +15,7 @@ class Solution:
                     suffix = total - prefix - idx 
                     rightsum = suffix - (m-1-i)*idx
                     prefix+=idx
-                    res[idx] = leftsum+rightsum
+                    res[idx] = leftsum + rightsum
             else:
                 res[lst[0]]=0
         return res

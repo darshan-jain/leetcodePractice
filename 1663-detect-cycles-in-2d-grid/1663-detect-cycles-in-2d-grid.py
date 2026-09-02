@@ -1,34 +1,27 @@
 class Solution:
     def containsCycle(self, grid: List[List[str]]) -> bool:
-        rows, cols = len(grid), len(grid[0])
+        rows = len(grid)
+        cols = len(grid[0])
         visit = set()
 
-        def dfs(r, c, pr, pc, char):
-            visit.add((r, c))
-
-            for dr, dc in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
-                nr, nc = r + dr, c + dc
-
-                # Check boundary and matching character
-                if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == char:
-                    # Skip the cell we just came from
-                    if (nr, nc) == (pr, pc):
+        def dfs(r,c,pr,pc, char):
+            visit.add((r,c))
+            lst = [(r+1,c),(r-1,c),(r,c+1),(r,c-1)]
+            for row,col in lst:
+                if 0<=row<rows and 0<=col<cols and grid[row][col]==char:
+                    if row==pr and col == pc:
                         continue
-                    
-                    # If neighbor is already visited, we found a cycle!
-                    if (nr, nc) in visit:
+                    if (row,col) in visit:
                         return True
                     
-                    if dfs(nr, nc, r, c, char):
+                    if dfs(row,col, r,c,char):
                         return True
-
             return False
 
-        for r in range(rows):
-            for c in range(cols):
-                # Only start DFS from unvisited cells
-                if (r, c) not in visit:
-                    if dfs(r, c, -1, -1, grid[r][c]):
+        for i in range(rows):
+            for j in range(cols):
+                if (i,j) not in visit:
+                    if dfs(i,j, -1,-1, grid[i][j]):
                         return True
-
         return False
+        

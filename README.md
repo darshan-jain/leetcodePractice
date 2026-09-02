@@ -30,6 +30,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
@@ -201,6 +202,7 @@
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -242,6 +244,7 @@
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |

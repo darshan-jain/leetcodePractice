@@ -34,6 +34,7 @@
 | [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3582-find-indices-of-stable-mountains](https://github.com/darshan-jain/leetcodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
 | [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |

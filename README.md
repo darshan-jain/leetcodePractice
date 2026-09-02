@@ -79,6 +79,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
+| [3019-furthest-point-from-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/3019-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [2550-words-within-two-edits-of-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/darshan-jain/leetcodePractice/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/3019-furthest-point-from-origin) |
 | [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 ## Bit Manipulation
 |  |

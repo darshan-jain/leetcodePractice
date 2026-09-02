@@ -102,6 +102,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/darshan-jain/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -151,6 +152,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/darshan-jain/leetcodePractice/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0461-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/1054-complement-of-base-10-integer) |

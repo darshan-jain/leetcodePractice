@@ -31,7 +31,7 @@ class Solution:
             if r == rows-1 and c == cols-1 and isAllowed(r,c,pr,pc): # add allowed check
                 return True
             if r<0 or r>=rows or c<0 or c>=cols or (r,c) in visit or not isAllowed(r,c,pr,pc):
-                return 
+                return False
             visit.add((r,c))
             dirr = hm[grid[r][c]]
             dr1, dc1 = dirr[0]

@@ -24,6 +24,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -111,6 +112,7 @@
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -235,6 +237,7 @@
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -243,6 +246,7 @@
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## String Matching
 |  |
@@ -303,5 +307,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/darshan-jain/leetcodePractice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
@@ -114,6 +115,7 @@
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0542-01-matrix) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -172,6 +174,7 @@
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/darshan-jain/leetcodePractice/tree/master/0091-decode-ways) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 ## Knapsack Problem
 |  |
@@ -247,6 +250,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0542-01-matrix) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |

@@ -7,12 +7,12 @@
 class Solution:
     def delNodes(self, root: Optional[TreeNode], to_delete: List[int]) -> List[TreeNode]:
         ans = []
-        toDelete = set(to_delete)
+        toDeleted = set(to_delete)
 
         def dfs(root, isRoot):
             if not root:
-                return None 
-            deleted = root.val in toDelete
+                return None
+            deleted = root.val in toDeleted
             if isRoot and not deleted:
                 ans.append(root)
             root.left = dfs(root.left, deleted)

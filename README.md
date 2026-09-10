@@ -138,6 +138,7 @@
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
+| [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -190,6 +191,7 @@
 | [0542-01-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
+| [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [1121-partition-array-for-maximum-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1121-partition-array-for-maximum-sum) |
 ## Knapsack Problem
 |  |

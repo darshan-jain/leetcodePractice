@@ -25,6 +25,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/darshan-jain/leetcodePractice/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1121-partition-array-for-maximum-sum) |
@@ -194,6 +195,7 @@
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
+| [1025-minimum-cost-for-tickets](https://github.com/darshan-jain/leetcodePractice/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1121-partition-array-for-maximum-sum) |
 ## Knapsack Problem
 |  |

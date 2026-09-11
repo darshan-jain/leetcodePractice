@@ -49,6 +49,8 @@ class Solution:
             lst = [(r+1,c),(r-1,c),(r,c+1),(r,c-1)]
             for row,col in lst:
                 if 0<=row<rows and 0<=col<cols and (row,col) not in visit:
+                    if (row,col) in island2:
+                        return dist
                     q.append((row,col, dist+1))
         return 99
         

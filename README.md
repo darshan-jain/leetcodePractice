@@ -36,6 +36,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1972-rotating-the-box](https://github.com/darshan-jain/leetcodePractice/tree/master/1972-rotating-the-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -131,6 +132,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1972-rotating-the-box](https://github.com/darshan-jain/leetcodePractice/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -307,6 +309,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [1002-maximum-width-ramp](https://github.com/darshan-jain/leetcodePractice/tree/master/1002-maximum-width-ramp) |
+| [1972-rotating-the-box](https://github.com/darshan-jain/leetcodePractice/tree/master/1972-rotating-the-box) |
 | [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation

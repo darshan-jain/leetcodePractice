@@ -263,6 +263,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
+| [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
@@ -341,6 +342,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |

@@ -150,6 +150,7 @@
 | [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1642-water-bottles](https://github.com/darshan-jain/leetcodePractice/tree/master/1642-water-bottles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/0657-robot-return-to-origin) |
+| [1642-water-bottles](https://github.com/darshan-jain/leetcodePractice/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |

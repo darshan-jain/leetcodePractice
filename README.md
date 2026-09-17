@@ -52,6 +52,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3582-find-indices-of-stable-mountains](https://github.com/darshan-jain/leetcodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3973-flip-square-submatrix-vertically](https://github.com/darshan-jain/leetcodePractice/tree/master/3973-flip-square-submatrix-vertically) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/darshan-jain/leetcodePractice/tree/master/4256-construct-uniform-parity-array-i) |
@@ -156,6 +157,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4256-construct-uniform-parity-array-i](https://github.com/darshan-jain/leetcodePractice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -264,6 +266,7 @@
 | [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Design
 |  |
@@ -300,6 +303,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
 | ------- |
@@ -343,6 +347,7 @@
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Linked List
 |  |

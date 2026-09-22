@@ -149,6 +149,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |

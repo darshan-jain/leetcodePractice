@@ -41,9 +41,9 @@ class Solution:
         res = [0]*(n+1)
         currval = 0 
         for i in range(1,n+1):
-            if opens[i]:
+            if i in opens:
                 currval+=opens[i]
-            if close[i-1]:
+            if i-1 in close:
                 currval-=close[i-1]
             res[i] = currval
 

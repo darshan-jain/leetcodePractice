@@ -32,6 +32,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/darshan-jain/leetcodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/1121-partition-array-for-maximum-sum) |
+| [1206-corporate-flight-bookings](https://github.com/darshan-jain/leetcodePractice/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/darshan-jain/leetcodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
 | [1447-jump-game-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1447-jump-game-iv) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1206-corporate-flight-bookings](https://github.com/darshan-jain/leetcodePractice/tree/master/1206-corporate-flight-bookings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2240-intervals-between-identical-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |

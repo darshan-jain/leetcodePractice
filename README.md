@@ -50,6 +50,7 @@
 | [2550-words-within-two-edits-of-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2639-separate-the-digits-in-an-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
+| [2892-check-if-array-is-good](https://github.com/darshan-jain/leetcodePractice/tree/master/2892-check-if-array-is-good) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/darshan-jain/leetcodePractice/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darshan-jain/leetcodePractice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3582-find-indices-of-stable-mountains](https://github.com/darshan-jain/leetcodePractice/tree/master/3582-find-indices-of-stable-mountains) |
@@ -96,6 +97,7 @@
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/darshan-jain/leetcodePractice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/darshan-jain/leetcodePractice/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2892-check-if-array-is-good](https://github.com/darshan-jain/leetcodePractice/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Counting Sort
@@ -269,6 +271,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2240-intervals-between-identical-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
+| [2892-check-if-array-is-good](https://github.com/darshan-jain/leetcodePractice/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |

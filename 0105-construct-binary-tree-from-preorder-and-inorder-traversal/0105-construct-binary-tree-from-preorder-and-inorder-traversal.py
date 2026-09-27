@@ -5,17 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
+    def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
         if len(preorder)==0:
-            return None
-        root = preorder[0]
-        index = -1 
-        for i in range(len(inorder)):
-            if inorder[i]==root:
-                index = i 
+            return None 
+        idx = -1 
+        for i, num in enumerate(inorder):
+            if num==preorder[0]:
+                idx=i
                 break
-        node = TreeNode(root)
-        node.left = self.buildTree(preorder[1:index+1], inorder[:index+1])
-        node.right = self.buildTree(preorder[index+1:], inorder[index+1:])
+        node = TreeNode(preorder[0])
+        node.left = self.buildTree(preorder[1:idx+1], inorder[0:idx+1])
+        node.right = self.buildTree(preorder[idx+1:], inorder[idx+1:])
         return node
+
         

@@ -127,6 +127,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3750-closest-equal-element-queries](https://github.com/darshan-jain/leetcodePractice/tree/master/3750-closest-equal-element-queries) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
+| [4303-count-k-th-roots-in-a-range](https://github.com/darshan-jain/leetcodePractice/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/darshan-jain/leetcodePractice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/darshan-jain/leetcodePractice/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
+| [4303-count-k-th-roots-in-a-range](https://github.com/darshan-jain/leetcodePractice/tree/master/4303-count-k-th-roots-in-a-range) |
 ## String
 |  |
 | ------- |

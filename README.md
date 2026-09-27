@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/darshan-jain/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0064-minimum-path-sum) |
+| [0134-gas-station](https://github.com/darshan-jain/leetcodePractice/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/darshan-jain/leetcodePractice/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |

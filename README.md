@@ -158,6 +158,7 @@
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
+| [0326-power-of-three](https://github.com/darshan-jain/leetcodePractice/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
@@ -389,4 +390,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/darshan-jain/leetcodePractice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

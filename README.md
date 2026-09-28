@@ -197,6 +197,7 @@
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/darshan-jain/leetcodePractice/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/darshan-jain/leetcodePractice/tree/master/3019-furthest-point-from-origin) |
+| [3379-score-of-a-string](https://github.com/darshan-jain/leetcodePractice/tree/master/3379-score-of-a-string) |
 | [4275-traffic-signal-color](https://github.com/darshan-jain/leetcodePractice/tree/master/4275-traffic-signal-color) |
 ## Bit Manipulation
 |  |

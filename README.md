@@ -320,6 +320,7 @@
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/darshan-jain/leetcodePractice/tree/master/0542-01-matrix) |
 | [0971-shortest-bridge](https://github.com/darshan-jain/leetcodePractice/tree/master/0971-shortest-bridge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1447-jump-game-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1447-jump-game-iv) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -402,4 +403,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/darshan-jain/leetcodePractice/tree/master/0326-power-of-three) |
+## Graph Theory
+|  |
+| ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/1229-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->

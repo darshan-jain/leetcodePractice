@@ -38,6 +38,7 @@
 | [1206-corporate-flight-bookings](https://github.com/darshan-jain/leetcodePractice/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/darshan-jain/leetcodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1447-jump-game-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1447-jump-game-iv) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/darshan-jain/leetcodePractice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -166,6 +167,7 @@
 | [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
 | [1260-day-of-the-year](https://github.com/darshan-jain/leetcodePractice/tree/master/1260-day-of-the-year) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/darshan-jain/leetcodePractice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/darshan-jain/leetcodePractice/tree/master/1642-water-bottles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darshan-jain/leetcodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |

@@ -21,7 +21,6 @@ class RandomizedSet:
         self.arr[idx] = newval
         self.hm[newval] = idx
         del self.hm[val]
-        
         self.arr.pop()
         return True
         

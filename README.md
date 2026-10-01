@@ -196,6 +196,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1260-day-of-the-year](https://github.com/darshan-jain/leetcodePractice/tree/master/1260-day-of-the-year) |
+| [1512-design-underground-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darshan-jain/leetcodePractice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -286,6 +287,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/darshan-jain/leetcodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/darshan-jain/leetcodePractice/tree/master/1319-unique-number-of-occurrences) |
 | [1447-jump-game-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1447-jump-game-iv) |
+| [1512-design-underground-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1512-design-underground-system) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/darshan-jain/leetcodePractice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2240-intervals-between-identical-elements](https://github.com/darshan-jain/leetcodePractice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/darshan-jain/leetcodePractice/tree/master/2721-sum-of-distances) |
@@ -302,6 +304,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
+| [1512-design-underground-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1512-design-underground-system) |
 ## Trie
 |  |
 | ------- |

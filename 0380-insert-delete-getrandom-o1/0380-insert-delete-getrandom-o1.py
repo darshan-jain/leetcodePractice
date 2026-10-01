@@ -7,9 +7,9 @@ class RandomizedSet:
 
     def insert(self, val: int) -> bool:
         if val in self.hm:
-            return False 
+            return False
         self.arr.append(val)
-        self.hm[val] = len(self.arr)-1
+        self.hm[val]= len(self.arr)-1
         return True
         
 

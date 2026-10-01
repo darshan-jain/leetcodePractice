@@ -15,6 +15,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/darshan-jain/leetcodePractice/tree/master/0260-single-number-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/darshan-jain/leetcodePractice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/darshan-jain/leetcodePractice/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
@@ -163,6 +164,7 @@
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/darshan-jain/leetcodePractice/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/darshan-jain/leetcodePractice/tree/master/0804-rotated-digits) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
@@ -276,6 +278,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -296,6 +299,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 ## Trie
@@ -409,4 +413,8 @@
 |  |
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/darshan-jain/leetcodePractice/tree/master/1229-shortest-path-with-alternating-colors) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

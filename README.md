@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/darshan-jain/leetcodePractice/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0213-house-robber-ii) |
@@ -303,6 +304,7 @@
 | [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
@@ -433,6 +435,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Data Stream

@@ -1,19 +1,21 @@
+using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> ans;
-        unordered_map<int,int> mpp;
-
-        for(int i=0;i<nums.size();i++)
-        {
-            if(mpp.find(target-nums[i])!=mpp.end()){
-                ans.push_back(i);
-                ans.push_back(mpp[target-nums[i]]);
-                return ans;
+        unordered_map<int, int> hm;
+        vector<int> res;
+        for(int i=0;i<nums.size();i++){
+            int a = nums[i];
+            int diff = target - a;
+            if (hm.find(diff)!=hm.end()){
+                int bindex = hm[diff];
+                res.push_back(i);
+                res.push_back(bindex);
+                return res;
             }
-            mpp[nums[i]] = i;
+            hm[a] = i;
         }
-        return ans;
+        return res;
         
     }
 };

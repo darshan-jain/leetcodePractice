@@ -10,18 +10,15 @@ public:
                 int h = height[r];
                 int b = (r-l);
                 maxwater = max(maxwater, h*b);
+                r-=1;
             }
             else{
                 int h = height[l];
                 int b = (r-l);
                 maxwater = max(maxwater, h*b);
-            }
-            if (height[l]>=height[r]){
-                r-=1;
-            }
-            else{
                 l+=1;
             }
+            
         }
         return maxwater;
         

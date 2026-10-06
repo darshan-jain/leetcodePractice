@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
@@ -95,6 +96,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/darshan-jain/leetcodePractice/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/darshan-jain/leetcodePractice/tree/master/0561-array-partition) |
@@ -390,6 +392,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |

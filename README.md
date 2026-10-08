@@ -80,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/darshan-jain/leetcodePractice/tree/master/0636-exclusive-time-of-functions) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/darshan-jain/leetcodePractice/tree/master/0091-decode-ways) |
@@ -429,6 +431,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshan-jain/leetcodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Number Theory

@@ -20,6 +20,7 @@
 | [0134-gas-station](https://github.com/darshan-jain/leetcodePractice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/darshan-jain/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/darshan-jain/leetcodePractice/tree/master/0238-product-of-array-except-self) |
@@ -197,6 +198,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/darshan-jain/leetcodePractice/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
@@ -421,6 +423,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/darshan-jain/leetcodePractice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/darshan-jain/leetcodePractice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0567-permutation-in-string) |

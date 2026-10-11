@@ -41,6 +41,7 @@
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
+| [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
 | [0967-minimum-falling-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0967-minimum-falling-path-sum) |
@@ -362,6 +363,7 @@
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/darshan-jain/leetcodePractice/tree/master/1512-design-underground-system) |
@@ -462,6 +464,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
 ## Euclidean Algorithm
 |  |
@@ -516,6 +519,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/darshan-jain/leetcodePractice/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |

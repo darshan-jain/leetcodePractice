@@ -41,6 +41,7 @@
 | [0739-daily-temperatures](https://github.com/darshan-jain/leetcodePractice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/darshan-jain/leetcodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0805-escape-the-ghosts](https://github.com/darshan-jain/leetcodePractice/tree/master/0805-escape-the-ghosts) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/darshan-jain/leetcodePractice/tree/master/0883-car-fleet) |
@@ -342,6 +343,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/darshan-jain/leetcodePractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/darshan-jain/leetcodePractice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/darshan-jain/leetcodePractice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/darshan-jain/leetcodePractice/tree/master/1023-time-based-key-value-store) |
@@ -366,6 +368,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
@@ -469,6 +472,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |
@@ -542,4 +546,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->

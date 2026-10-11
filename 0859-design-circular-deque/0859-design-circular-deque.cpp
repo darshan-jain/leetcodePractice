@@ -10,21 +10,19 @@ public:
         {
             res.push_back(0);
         }
-        head =0;
+        head=0;
         tail = 0;
-        size=0;
+        size = 0;
         cap=k;
         
     }
     
     bool insertFront(int value) {
         if(isFull())
-        {
-            return false;
-        }
+        return false;
         res[head] = value;
         head = (head-1+cap)%cap;
-        if(size==0)
+        if (size==0)
         tail = (tail+1+cap)%cap;
         size++;
         return true;
@@ -33,12 +31,10 @@ public:
     
     bool insertLast(int value) {
         if(isFull())
-        {
-            return false;
-        }
+        return false;
         res[tail] = value;
         tail = (tail+1+cap)%cap;
-        if (size==0)
+        if(size==0)
         head = (head-1+cap)%cap;
         size++;
         return true;
@@ -47,14 +43,12 @@ public:
     
     bool deleteFront() {
         if(isEmpty())
-        {
-            return false;
-        }
+        return false;
         head = (head+1+cap)%cap;
         size--;
-        if(isEmpty())
+        if(size==0)
         {
-            head=0;
+            head =0;
             tail = 0;
         }
         return true;
@@ -63,34 +57,28 @@ public:
     
     bool deleteLast() {
         if(isEmpty())
-        {
-            return false;
-        }
+        return false;
         tail = (tail-1+cap)%cap;
         size--;
-        if(isEmpty())
+        if(size==0)
         {
             head=0;
-            tail = 0;
+            tail=0;
         }
         return true;
         
     }
     
     int getFront() {
-        if (isEmpty())
-        {
-            return -1;
-        }
+        if(isEmpty())
+        return -1;
         return res[(head+1+cap)%cap];
         
     }
     
     int getRear() {
-        if (isEmpty())
-        {
-            return -1;
-        }
+        if(isEmpty())
+        return -1;
         return res[(tail-1+cap)%cap];
         
     }
@@ -102,6 +90,7 @@ public:
     
     bool isFull() {
         return size==cap;
+        
         
     }
 };

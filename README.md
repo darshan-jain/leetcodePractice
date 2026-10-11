@@ -200,6 +200,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |

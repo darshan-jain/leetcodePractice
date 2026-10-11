@@ -90,6 +90,7 @@
 | [0042-trapping-rain-water](https://github.com/darshan-jain/leetcodePractice/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/darshan-jain/leetcodePractice/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/darshan-jain/leetcodePractice/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0678-valid-parenthesis-string) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/darshan-jain/leetcodePractice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/darshan-jain/leetcodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/darshan-jain/leetcodePractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
@@ -518,6 +520,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/darshan-jain/leetcodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/darshan-jain/leetcodePractice/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/darshan-jain/leetcodePractice/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/darshan-jain/leetcodePractice/tree/master/0860-design-circular-queue) |

@@ -202,6 +202,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/darshan-jain/leetcodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/darshan-jain/leetcodePractice/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/darshan-jain/leetcodePractice/tree/master/0172-factorial-trailing-zeroes) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/darshan-jain/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/darshan-jain/leetcodePractice/tree/master/0072-edit-distance) |
@@ -333,6 +335,7 @@
 | [0001-two-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshan-jain/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/darshan-jain/leetcodePractice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/darshan-jain/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/darshan-jain/leetcodePractice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/darshan-jain/leetcodePractice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |

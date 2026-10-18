@@ -1,42 +1,36 @@
+/*
+     0,1,2,3
+0   [[1,3,5,7],
+1   [10,11,16,20],
+2.  [23,30,34,60]]
+
+*/
+
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int low = 0 ;
-        int high = matrix.size()-1;
-        int j = matrix[0].size()-1;
-        int row = -1;
-        while(low<high){
-            int mid = (low+high)/2;
-            if(matrix[mid][j]==target){
-                return true;
-            }
-            else if(matrix[mid][j]>target){
-                high = mid;
-            }
-            else{
-                low = mid+1;
-            }
 
-        }
-        row = low;
-        cout<<row<<" ";
-
-        //2nd binary search
-        int l = 0 ;
-        int r = matrix[0].size()-1;
+        int l = 0;
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+        int r = rows*cols-1;
         while(l<=r){
             int m = (l+r)/2;
-            if(matrix[row][m]==target){
+            int val = matrix[(int)m/cols][m%cols];
+            if (val==target){
                 return true;
             }
-            else if(matrix[row][m]>target){
-                r = m-1;
+            else if(val>target){
+                r=m-1;
             }
             else{
                 l = m+1;
             }
+
         }
+
         return false;
+
         
     }
 };

@@ -480,6 +480,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/darshan-jain/leetcodePractice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/darshan-jain/leetcodePractice/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/darshan-jain/leetcodePractice/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0838-design-linked-list) |
@@ -509,6 +510,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/darshan-jain/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/darshan-jain/leetcodePractice/tree/master/0326-power-of-three) |
 ## Graph Theory
 |  |

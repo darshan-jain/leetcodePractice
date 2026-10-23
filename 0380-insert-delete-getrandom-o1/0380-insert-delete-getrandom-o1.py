@@ -9,7 +9,7 @@ class RandomizedSet:
         if val in self.hm:
             return False
         self.arr.append(val)
-        self.hm[val]= len(self.arr)-1
+        self.hm[val] = len(self.arr)-1
         return True
         
 
@@ -17,17 +17,16 @@ class RandomizedSet:
         if val not in self.hm:
             return False
         idx = self.hm[val]
-        newval = self.arr[len(self.arr)-1]
-        self.arr[idx] = newval
-        self.hm[newval] = idx
+        self.arr[idx] = self.arr[len(self.arr)-1]
+        self.hm[self.arr[idx]]=idx
         del self.hm[val]
         self.arr.pop()
         return True
         
 
     def getRandom(self) -> int:
-        ridx = random.randint(0,len(self.arr)-1)
-        return self.arr[ridx]
+        idx = random.randint(0,len(self.arr)-1)
+        return self.arr[idx]
         
 
 

@@ -5,27 +5,25 @@ class TimeMap:
         
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        self.hm[key].append((value, timestamp))
-        
+        self.hm[key].append((timestamp, value))
         
 
     def get(self, key: str, timestamp: int) -> str:
         if key not in self.hm:
             return ""
-        lst = self.hm[key]
-        if len(lst)==0:
-            return ""
         res = ""
+        lst = self.hm[key]
         l = 0 
         r = len(lst)-1
         while l<=r:
             m = (l+r)//2
-            if lst[m][1]<=timestamp:
-                res = lst[m][0]
-                l=m+1
+            if lst[m][0]<=timestamp:
+                res=lst[m][1]
+                l = m+1
             else:
-                r = m-1
+                r=m-1
         return res
+
         
 
 

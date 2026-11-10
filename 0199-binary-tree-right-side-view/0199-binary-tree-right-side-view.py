@@ -5,14 +5,14 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        ans= []
-        q = [root]
+    def rightSideView(self, root: TreeNode | None) -> list[int]:
         if root is None:
             return []
+        q = [root]
+        ans = []
         while q:
-            next_level = []
             res = []
+            next_level = []
             for item in q:
                 res.append(item.val)
                 if item.left:
@@ -22,6 +22,4 @@ class Solution:
             ans.append(res[-1])
             q = next_level
         return ans
-
-
         

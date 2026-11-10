@@ -321,6 +321,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/darshan-jain/leetcodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/darshan-jain/leetcodePractice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/darshan-jain/leetcodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -433,6 +436,7 @@
 | [1447-jump-game-iv](https://github.com/darshan-jain/leetcodePractice/tree/master/1447-jump-game-iv) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/darshan-jain/leetcodePractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/darshan-jain/leetcodePractice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshan-jain/leetcodePractice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching

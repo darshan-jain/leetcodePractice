@@ -286,6 +286,7 @@
 | [0091-decode-ways](https://github.com/darshan-jain/leetcodePractice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/darshan-jain/leetcodePractice/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshan-jain/leetcodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/darshan-jain/leetcodePractice/tree/master/0213-house-robber-ii) |
 | [0396-rotate-function](https://github.com/darshan-jain/leetcodePractice/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0494-target-sum) |
@@ -311,6 +312,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -339,6 +341,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/darshan-jain/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -413,6 +416,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/darshan-jain/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/darshan-jain/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -601,6 +605,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/darshan-jain/leetcodePractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/darshan-jain/leetcodePractice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |

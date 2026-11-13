@@ -2,10 +2,11 @@ class TrieNode:
     def __init__(self):
         self.children = {}
         self.isWord = False
+
 class Trie:
 
     def __init__(self):
-        self.root = TrieNode()
+        self.root = TrieNode()       
         
 
     def insert(self, word: str) -> None:
@@ -15,13 +16,15 @@ class Trie:
                 d.children[c] = TrieNode()
             d = d.children[c]
         d.isWord = True
+
+        
         
 
     def search(self, word: str) -> bool:
         d = self.root 
         for c in word:
             if c not in d.children:
-                return False 
+                return False
             d = d.children[c]
         return d.isWord
         
@@ -30,7 +33,7 @@ class Trie:
         d = self.root 
         for c in prefix:
             if c not in d.children:
-                return False 
+                return False
             d = d.children[c]
         return True
         

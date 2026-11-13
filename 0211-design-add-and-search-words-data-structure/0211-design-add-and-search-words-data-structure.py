@@ -6,7 +6,6 @@ class WordDictionary:
 
     def __init__(self):
         self.root = TrieNode()
-
         
 
     def addWord(self, word: str) -> None:
@@ -19,22 +18,24 @@ class WordDictionary:
         
 
     def search(self, word: str) -> bool:
-        d = self.root
-        def dfs(root, word):
-            curr = root 
-            for i,c in enumerate(word):
-                if c=='.':
-                    for child in curr.children.values():
-                        if dfs(child, word[i+1:]):
+
+        def dfs(idx, root):
+            cur = root 
+            for i in range(idx, len(word)):
+                c = word[i]
+                if c ==".":
+                    for child in cur.children.values():
+                        if dfs(i+1,child):
                             return True
                     return False
                 else:
-                    if c not in curr.children:
-                        return False 
-                    curr = curr.children[c]
-            return curr.isWord
-        return dfs(d, word)
+                    if c not in cur.children:
+                        return False
+                    cur = cur.children[c]
+            return cur.isWord
 
+
+        return dfs(0,self.root)
         
 
 
